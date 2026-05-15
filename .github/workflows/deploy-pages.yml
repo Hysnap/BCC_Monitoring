@@ -1,0 +1,34 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      artifact-path: ${{ steps.upload-artifact.outputs.artifact-path }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare site directory
+        run: |
+          mkdir -p public
+          cp -r docs/* public/ || true
+
+      - uses: actions/configure-pages@v3
+
+      - name: Upload Pages artifact
+        id: upload-artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
