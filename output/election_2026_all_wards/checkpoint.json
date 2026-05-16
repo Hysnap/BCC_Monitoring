@@ -1,0 +1,625 @@
+{
+  "wards": {
+    "/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026": {
+      "ward_name": "Acocks Green Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:23:17+00:00",
+      "last_pulled_at": "2026-05-16T21:57:29+00:00",
+      "status": "complete",
+      "candidate_count": 14
+    },
+    "/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026": {
+      "ward_name": "Allens Cross Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:23:20+00:00",
+      "last_pulled_at": "2026-05-16T22:23:20+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026": {
+      "ward_name": "Alum Rock Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:23:27+00:00",
+      "last_pulled_at": "2026-05-16T22:23:27+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3199/aston_ward_election_2026": {
+      "ward_name": "Aston Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:23:32+00:00",
+      "last_pulled_at": "2026-05-16T22:23:32+00:00",
+      "status": "complete",
+      "candidate_count": 14
+    },
+    "/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026": {
+      "ward_name": "Balsall Heath West Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026",
+      "page_last_updated": "2026-05-10",
+      "last_checked_at": "2026-05-16T22:23:41+00:00",
+      "last_pulled_at": "2026-05-16T22:23:41+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026": {
+      "ward_name": "Bartley Green Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:23:46+00:00",
+      "last_pulled_at": "2026-05-16T22:23:46+00:00",
+      "status": "complete",
+      "candidate_count": 10
+    },
+    "/info/50385/election_2026_candidates/3202/billesley_ward_election_2026": {
+      "ward_name": "Billesley Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:23:53+00:00",
+      "last_pulled_at": "2026-05-16T22:23:53+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026": {
+      "ward_name": "Birchfield Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:01+00:00",
+      "last_pulled_at": "2026-05-16T22:24:01+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026": {
+      "ward_name": "Bordesley and Highgate Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:07+00:00",
+      "last_pulled_at": "2026-05-16T22:24:07+00:00",
+      "status": "complete",
+      "candidate_count": 9
+    },
+    "/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026": {
+      "ward_name": "Bordesley Green Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:13+00:00",
+      "last_pulled_at": "2026-05-16T22:24:13+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026": {
+      "ward_name": "Bournbrook and Selly Park Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:18+00:00",
+      "last_pulled_at": "2026-05-16T22:24:18+00:00",
+      "status": "complete",
+      "candidate_count": 11
+    },
+    "/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026": {
+      "ward_name": "Bournville and Cotteridge Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:24+00:00",
+      "last_pulled_at": "2026-05-16T22:24:24+00:00",
+      "status": "complete",
+      "candidate_count": 11
+    },
+    "/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026": {
+      "ward_name": "Brandwood and Kings Heath Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:32+00:00",
+      "last_pulled_at": "2026-05-16T22:24:32+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026": {
+      "ward_name": "Bromford and Hodge Hill Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:38+00:00",
+      "last_pulled_at": "2026-05-16T22:24:38+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026": {
+      "ward_name": "Castle Vale Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:44+00:00",
+      "last_pulled_at": "2026-05-16T22:24:44+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026": {
+      "ward_name": "Druids Heath and Monyhull Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:51+00:00",
+      "last_pulled_at": "2026-05-16T22:24:51+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026": {
+      "ward_name": "Edgbaston Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:24:59+00:00",
+      "last_pulled_at": "2026-05-16T22:24:59+00:00",
+      "status": "complete",
+      "candidate_count": 10
+    },
+    "/info/50385/election_2026_candidates/3213/erdington_ward_election_2026": {
+      "ward_name": "Erdington Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:06+00:00",
+      "last_pulled_at": "2026-05-16T22:25:06+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026": {
+      "ward_name": "Frankley Great Park Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:13+00:00",
+      "last_pulled_at": "2026-05-16T22:25:13+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026": {
+      "ward_name": "Garretts Green Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:18+00:00",
+      "last_pulled_at": "2026-05-16T22:25:18+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026": {
+      "ward_name": "Glebe Farm and Tile Cross Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026",
+      "page_last_updated": "2026-05-12",
+      "last_checked_at": "2026-05-16T22:25:25+00:00",
+      "last_pulled_at": "2026-05-16T22:25:25+00:00",
+      "status": "complete",
+      "candidate_count": 13
+    },
+    "/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026": {
+      "ward_name": "Gravelly Hill Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:32+00:00",
+      "last_pulled_at": "2026-05-16T22:25:32+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026": {
+      "ward_name": "Hall Green North Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:38+00:00",
+      "last_pulled_at": "2026-05-16T22:25:38+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026": {
+      "ward_name": "Hall Green South Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:47+00:00",
+      "last_pulled_at": "2026-05-16T22:25:47+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026": {
+      "ward_name": "Handsworth Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:52+00:00",
+      "last_pulled_at": "2026-05-16T22:25:52+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026": {
+      "ward_name": "Handsworth Wood Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:25:58+00:00",
+      "last_pulled_at": "2026-05-16T22:25:58+00:00",
+      "status": "complete",
+      "candidate_count": 14
+    },
+    "/info/50385/election_2026_candidates/3222/harborne_ward_election_2026": {
+      "ward_name": "Harborne Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:06+00:00",
+      "last_pulled_at": "2026-05-16T22:26:06+00:00",
+      "status": "complete",
+      "candidate_count": 13
+    },
+    "/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026": {
+      "ward_name": "Heartlands Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:11+00:00",
+      "last_pulled_at": "2026-05-16T22:26:11+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3224/highters_heath_ward_election_2026": {
+      "ward_name": "Highter\u2019s Heath Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3224/highters_heath_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:18+00:00",
+      "last_pulled_at": "2026-05-16T22:26:18+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026": {
+      "ward_name": "Holyhead Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:26+00:00",
+      "last_pulled_at": "2026-05-16T22:26:26+00:00",
+      "status": "complete",
+      "candidate_count": 8
+    },
+    "/info/50385/election_2026_candidates/3226/kings_norton_north_ward_election_2026": {
+      "ward_name": "King\u2019s Norton North Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3226/kings_norton_north_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:33+00:00",
+      "last_pulled_at": "2026-05-16T22:26:33+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3227/kings_norton_south_ward_election_2026": {
+      "ward_name": "King\u2019s Norton South Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3227/kings_norton_south_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:40+00:00",
+      "last_pulled_at": "2026-05-16T22:26:40+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026": {
+      "ward_name": "Kingstanding Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:45+00:00",
+      "last_pulled_at": "2026-05-16T22:26:45+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026": {
+      "ward_name": "Ladywood Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:26:53+00:00",
+      "last_pulled_at": "2026-05-16T22:26:53+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026": {
+      "ward_name": "Longbridge and West Heath Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:00+00:00",
+      "last_pulled_at": "2026-05-16T22:27:00+00:00",
+      "status": "complete",
+      "candidate_count": 10
+    },
+    "/info/50385/election_2026_candidates/3231/lozells_ward_election_2026": {
+      "ward_name": "Lozells Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:07+00:00",
+      "last_pulled_at": "2026-05-16T22:27:07+00:00",
+      "status": "complete",
+      "candidate_count": 9
+    },
+    "/info/50385/election_2026_candidates/3232/moseley_ward_election_2026": {
+      "ward_name": "Moseley Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:13+00:00",
+      "last_pulled_at": "2026-05-16T22:27:13+00:00",
+      "status": "complete",
+      "candidate_count": 11
+    },
+    "/info/50385/election_2026_candidates/3233/nechells_ward_election_2026": {
+      "ward_name": "Nechells Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:20+00:00",
+      "last_pulled_at": "2026-05-16T22:27:20+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3234/newtown_ward_election_2026": {
+      "ward_name": "Newtown Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:27+00:00",
+      "last_pulled_at": "2026-05-16T22:27:27+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026": {
+      "ward_name": "North Edgbaston Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:35+00:00",
+      "last_pulled_at": "2026-05-16T22:27:35+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3236/northfield_ward_election_2026": {
+      "ward_name": "Northfield Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3236/northfield_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:43+00:00",
+      "last_pulled_at": "2026-05-16T22:27:43+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3237/oscott_ward_election_2026": {
+      "ward_name": "Oscott Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:51+00:00",
+      "last_pulled_at": "2026-05-16T22:27:51+00:00",
+      "status": "complete",
+      "candidate_count": 13
+    },
+    "/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026": {
+      "ward_name": "Perry Barr Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:27:57+00:00",
+      "last_pulled_at": "2026-05-16T22:27:57+00:00",
+      "status": "complete",
+      "candidate_count": 13
+    },
+    "/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026": {
+      "ward_name": "Perry Common Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:03+00:00",
+      "last_pulled_at": "2026-05-16T22:28:03+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026": {
+      "ward_name": "Pype Hayes Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:10+00:00",
+      "last_pulled_at": "2026-05-16T22:28:10+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3241/quinton_ward_election_2026": {
+      "ward_name": "Quinton Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:19+00:00",
+      "last_pulled_at": "2026-05-16T22:28:19+00:00",
+      "status": "complete",
+      "candidate_count": 11
+    },
+    "/info/50385/election_2026_candidates/3242/rubery_and_rednal_ward_election_2026": {
+      "ward_name": "Rubery and Rednal Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3242/rubery_and_rednal_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:26+00:00",
+      "last_pulled_at": "2026-05-16T22:28:26+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026": {
+      "ward_name": "Shard End Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:32+00:00",
+      "last_pulled_at": "2026-05-16T22:28:32+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026": {
+      "ward_name": "Sheldon Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:41+00:00",
+      "last_pulled_at": "2026-05-16T22:28:41+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026": {
+      "ward_name": "Small Heath Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:47+00:00",
+      "last_pulled_at": "2026-05-16T22:28:47+00:00",
+      "status": "complete",
+      "candidate_count": 15
+    },
+    "/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026": {
+      "ward_name": "Soho and Jewellery Quarter Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:28:52+00:00",
+      "last_pulled_at": "2026-05-16T22:28:52+00:00",
+      "status": "complete",
+      "candidate_count": 12
+    },
+    "/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026": {
+      "ward_name": "South Yardley Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:00+00:00",
+      "last_pulled_at": "2026-05-16T22:29:00+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026": {
+      "ward_name": "Sparkbrook and Balsall Heath East Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:07+00:00",
+      "last_pulled_at": "2026-05-16T22:29:07+00:00",
+      "status": "complete",
+      "candidate_count": 14
+    },
+    "/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026": {
+      "ward_name": "Sparkhill Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:16+00:00",
+      "last_pulled_at": "2026-05-16T22:29:16+00:00",
+      "status": "complete",
+      "candidate_count": 13
+    },
+    "/info/50385/election_2026_candidates/3250/stirchley_ward_election_2026": {
+      "ward_name": "Stirchley Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3250/stirchley_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:21+00:00",
+      "last_pulled_at": "2026-05-16T22:29:21+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026": {
+      "ward_name": "Stockland Green Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:28+00:00",
+      "last_pulled_at": "2026-05-16T22:29:28+00:00",
+      "status": "complete",
+      "candidate_count": 14
+    },
+    "/info/50385/election_2026_candidates/3252/sutton_four_oaks_ward_election_2026": {
+      "ward_name": "Sutton Four Oaks Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3252/sutton_four_oaks_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:36+00:00",
+      "last_pulled_at": "2026-05-16T22:29:36+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3253/sutton_mere_green_ward_election_2026": {
+      "ward_name": "Sutton Mere Green Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3253/sutton_mere_green_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:43+00:00",
+      "last_pulled_at": "2026-05-16T22:29:43+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3254/sutton_reddicap_ward_election_2026": {
+      "ward_name": "Sutton Reddicap Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3254/sutton_reddicap_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:50+00:00",
+      "last_pulled_at": "2026-05-16T22:29:50+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3255/sutton_roughley_ward_election_2026": {
+      "ward_name": "Sutton Roughley Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3255/sutton_roughley_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:29:56+00:00",
+      "last_pulled_at": "2026-05-16T22:29:56+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3256/sutton_trinity_ward_election_2026": {
+      "ward_name": "Sutton Trinity Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3256/sutton_trinity_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:05+00:00",
+      "last_pulled_at": "2026-05-16T22:30:05+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026": {
+      "ward_name": "Sutton Vesey Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:11+00:00",
+      "last_pulled_at": "2026-05-16T22:30:11+00:00",
+      "status": "complete",
+      "candidate_count": 10
+    },
+    "/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026": {
+      "ward_name": "Sutton Walmley and Minworth Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:19+00:00",
+      "last_pulled_at": "2026-05-16T22:30:19+00:00",
+      "status": "complete",
+      "candidate_count": 10
+    },
+    "/info/50385/election_2026_candidates/3259/sutton_wylde_green_ward_election_2026": {
+      "ward_name": "Sutton Wylde Green Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3259/sutton_wylde_green_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:27+00:00",
+      "last_pulled_at": "2026-05-16T22:30:27+00:00",
+      "status": "complete",
+      "candidate_count": 5
+    },
+    "/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026": {
+      "ward_name": "Tyseley and Hay Mills Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:32+00:00",
+      "last_pulled_at": "2026-05-16T22:30:32+00:00",
+      "status": "complete",
+      "candidate_count": 7
+    },
+    "/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026": {
+      "ward_name": "Ward End Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:40+00:00",
+      "last_pulled_at": "2026-05-16T22:30:40+00:00",
+      "status": "complete",
+      "candidate_count": 8
+    },
+    "/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026": {
+      "ward_name": "Weoley and Selly Oak Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:47+00:00",
+      "last_pulled_at": "2026-05-16T22:30:47+00:00",
+      "status": "complete",
+      "candidate_count": 11
+    },
+    "/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026": {
+      "ward_name": "Yardley East Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:30:53+00:00",
+      "last_pulled_at": "2026-05-16T22:30:53+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    },
+    "/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026": {
+      "ward_name": "Yardley West and Stechford Ward",
+      "source_url": "https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026",
+      "page_last_updated": "2026-05-11",
+      "last_checked_at": "2026-05-16T22:31:01+00:00",
+      "last_pulled_at": "2026-05-16T22:31:01+00:00",
+      "status": "complete",
+      "candidate_count": 6
+    }
+  }
+}

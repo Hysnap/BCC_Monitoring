@@ -1,0 +1,13 @@
+person_id,person_name,election_date,ward_name,votes_received,is_elected,party_name,source_url
+6711b70b9f075c6c,Baker Amanda Caroline,2022-05-05,Acocks Green Ward,258,False,Green Party,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+879f28dd240212e7,Flynn Eamonn Kevin,2022-05-05,Acocks Green Ward,84,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+1cf7a09f1777f9a9,Harmer Roger Kingdon,2022-05-05,Acocks Green Ward,2225,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+32d3bfcbc7c319ca,Iqbal Malik Zafar,2022-05-05,Acocks Green Ward,288,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+abd529b603e2c273,Makrinov Ninna Isabel,2022-05-05,Acocks Green Ward,1531,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+c634377bf8e16696,O'Shea John Anthony,2022-05-05,Acocks Green Ward,1679,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+4be78cf9e0432ac4,Shingadia Sunil,2022-05-05,Acocks Green Ward,239,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+d82308043990da38,Wagg Penny,2022-05-05,Acocks Green Ward,1856,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+a1d46b1c249795c6,Deakin Jack,2022-05-05,Allens Cross Ward,922,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+693fdd0bc1b4876a,Fielden Claire Alexandra,2022-05-05,Allens Cross Ward,62,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+94d676f04796b33e,Freeman Eddie,2022-05-05,Allens Cross Ward,908,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+532fb2962d37342f,Rust Daniel Brian,2022-05-05,Allens Cross Ward,112,False,Green Party,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results

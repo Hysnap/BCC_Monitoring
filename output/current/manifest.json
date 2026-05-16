@@ -1,0 +1,20 @@
+{
+  "merged_from": [
+    "election_2026_all_wards",
+    "election_2022_may",
+    "councillors",
+    "cmis_committees_test",
+    "publication",
+    "checkpoints",
+    "data",
+    "raw_html",
+    "election_2018_may",
+    "election_2022_may_test"
+  ],
+  "people_count": 1077,
+  "party_history_count": 1194,
+  "election_standing_count": 1371,
+  "ward_summary_count": 207,
+  "councillor_count": 101,
+  "councillor_link_count": 700
+}

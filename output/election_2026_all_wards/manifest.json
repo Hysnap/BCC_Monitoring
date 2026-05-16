@@ -1,0 +1,16 @@
+{
+  "start_url": "https://www.birmingham.gov.uk/info/50385/election_2026_-_results_by_ward",
+  "ward_count": 69,
+  "processed_wards": 68,
+  "skipped_wards": 1,
+  "people_count": 601,
+  "party_history_count": 601,
+  "election_standing_count": 601,
+  "ward_summary_count": 68,
+  "delay_min_seconds": 2.5,
+  "delay_max_seconds": 6.0,
+  "generated_at": "2026-05-16",
+  "mode": "playwright-browser",
+  "checkpoint_file": "checkpoint.json",
+  "force_refresh": false
+}

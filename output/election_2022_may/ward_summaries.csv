@@ -1,0 +1,70 @@
+election_date,ward_name,number_of_candidates,total_votes_cast,total_potential_voters,turnout_percent,number_of_councillors_elected,source_url
+2022-05-05,Acocks Green Ward,8,8160,,,,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+2022-05-05,Allens Cross Ward,4,2004,,,,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+2022-05-05,Alum Rock Ward,6,8797,,,,https://www.birmingham.gov.uk/directory_record/370701/alum_rock_ward_results
+2022-05-05,Aston Ward,9,11173,,,,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+2022-05-05,Balsall Heath West Ward,5,2220,,,,https://www.birmingham.gov.uk/directory_record/370704/balsall_heath_west_ward_results
+2022-05-05,Bartley Green Ward,7,7163,,,,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+2022-05-05,Billesley Ward,9,7894,,,,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+2022-05-05,Birchfield Ward,3,1761,,,,https://www.birmingham.gov.uk/directory_record/370710/birchfield_ward_results
+2022-05-05,Bordesley and Highgate Ward,4,1615,,,,https://www.birmingham.gov.uk/directory_record/370716/bordesley_and_highgate_ward_results
+2022-05-05,Bordesley Green Ward,3,2195,,,,https://www.birmingham.gov.uk/directory_record/370717/bordesley_green_ward_results
+2022-05-05,Bournbrook and Selly Park Ward,9,5821,,,,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+2022-05-05,Bournville and Cotteridge Ward,8,10035,,,,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+2022-05-05,Brandwood and Kings Heath Ward,11,11005,,,,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+2022-05-05,Bromford and Hodge Hill Ward,7,6255,,,,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+2022-05-05,Castle Vale Ward,4,1290,,,,https://www.birmingham.gov.uk/directory_record/370732/castle_vale_ward_results
+2022-05-05,Druids Heath and Monyhull Ward,4,2531,,,,https://www.birmingham.gov.uk/directory_record/370733/druids_heath_and_monyhull_ward_results
+2022-05-05,Edgbaston Ward,7,7083,,,,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+2022-05-05,Erdington Ward,9,8463,,,,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+2022-05-05,Frankley Great Park Ward,4,2224,,,,https://www.birmingham.gov.uk/directory_record/370736/frankley_great_park_ward_results
+2022-05-05,Garretts Green Ward,3,1928,,,,https://www.birmingham.gov.uk/directory_record/370737/garretts_green_ward_results
+2022-05-05,Glebe Farm and Tile Cross Ward,6,5487,,,,https://www.birmingham.gov.uk/directory_record/370738/glebe_farm_and_tile_cross_ward_results
+2022-05-05,Gravelly Hill Ward,5,1557,,,,https://www.birmingham.gov.uk/directory_record/370739/gravelly_hill_ward_results
+2022-05-05,Hall Green North Ward,7,8093,,,,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+2022-05-05,Hall Green South Ward,4,2764,,,,https://www.birmingham.gov.uk/directory_record/370745/hall_green_south_ward_results
+2022-05-05,Handsworth Ward,4,1675,,,,https://www.birmingham.gov.uk/directory_record/370740/handsworth_ward_results
+2022-05-05,Handsworth Wood Ward,6,6563,,,,https://www.birmingham.gov.uk/directory_record/370742/handsworth_wood_ward_results
+2022-05-05,Harborne Ward,7,10975,,,,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+2022-05-05,Heartlands Ward,3,2095,,,,https://www.birmingham.gov.uk/directory_record/370743/heartlands_ward_results
+2022-05-05,Highters Heath Ward,3,1996,,,,https://www.birmingham.gov.uk/directory_record/370746/highters_heath_ward_results
+2022-05-05,Holyhead Ward,4,2117,,,,https://www.birmingham.gov.uk/directory_record/370747/holyhead_ward_results
+2022-05-05,Kings Norton North Ward,4,2441,,,,https://www.birmingham.gov.uk/directory_record/370754/kings_norton_north_ward_results
+2022-05-05,Kings Norton South Ward,3,2234,,,,https://www.birmingham.gov.uk/directory_record/370755/kings_norton_south_ward_results
+2022-05-05,Kingstanding Ward,9,5566,,,,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+2022-05-05,Ladywood Ward,8,5332,,,,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+2022-05-05,Longbridge and West Heath Ward,9,7736,,,,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+2022-05-05,Lozells Ward,3,2764,,,,https://www.birmingham.gov.uk/directory_record/370757/lozells_ward_results
+2022-05-05,Moseley Ward,7,10838,,,,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+2022-05-05,Nechells Ward,2,1344,,,,https://www.birmingham.gov.uk/directory_record/370760/nechells_ward_results
+2022-05-05,Newtown Ward,4,1776,,,,https://www.birmingham.gov.uk/directory_record/370762/newtown_ward_results
+2022-05-05,North Edgbaston Ward,7,7167,,,,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+2022-05-05,Northfield Ward,4,2801,,,,https://www.birmingham.gov.uk/directory_record/370763/northfield_ward_results
+2022-05-05,Oscott Ward,6,6226,,,,https://www.birmingham.gov.uk/directory_record/370764/oscott_ward_results
+2022-05-05,Perry Barr Ward,6,7763,,,,https://www.birmingham.gov.uk/directory_record/370765/perry_barr_ward_results
+2022-05-05,Perry Common Ward,5,1694,,,,https://www.birmingham.gov.uk/directory_record/370766/perry_common_ward_results
+2022-05-05,Pype Hayes Ward,5,1908,,,,https://www.birmingham.gov.uk/directory_record/370767/pype_hayes_ward_results
+2022-05-05,Quinton Ward,7,9318,,,,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+2022-05-05,Rubery and Rednal Ward,4,1861,,,,https://www.birmingham.gov.uk/directory_record/370769/rubery_and_rednal_ward_results
+2022-05-05,Shard End Ward,4,1405,,,,https://www.birmingham.gov.uk/directory_record/370772/shard_end_ward_results
+2022-05-05,Sheldon Ward,8,6248,,,,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+2022-05-05,Small Heath Ward,6,8724,,,,https://www.birmingham.gov.uk/directory_record/370728/small_heath_ward_results
+2022-05-05,Soho and Jewellery Quarter Ward,7,6256,,,,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+2022-05-05,South Yardley Ward,5,1907,,,,https://www.birmingham.gov.uk/directory_record/370727/south_yardley_ward_results
+2022-05-05,Sparkbrook and Balsall Heath East Ward,7,7328,,,,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+2022-05-05,Sparkhill Ward,6,7612,,,,https://www.birmingham.gov.uk/directory_record/370726/sparkhill_ward_results
+2022-05-05,Stirchley Ward,4,2615,,,,https://www.birmingham.gov.uk/directory_record/370721/stirchley_ward_results
+2022-05-05,Stockland Green Ward,9,6132,,,,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+2022-05-05,Sutton Four Oaks Ward,4,2507,,,,https://www.birmingham.gov.uk/directory_record/370771/sutton_four_oaks_ward_results
+2022-05-05,Sutton Mere Green Ward,4,2682,,,,https://www.birmingham.gov.uk/directory_record/370729/sutton_mere_green_ward_results
+2022-05-05,Sutton Reddicap Ward,3,1922,,,,https://www.birmingham.gov.uk/directory_record/370725/sutton_reddicap_ward_results
+2022-05-05,Sutton Roughley Ward,3,2595,,,,https://www.birmingham.gov.uk/directory_record/370724/sutton_roughley_ward_results
+2022-05-05,Sutton Trinity Ward,4,2403,,,,https://www.birmingham.gov.uk/directory_record/370720/sutton_trinity_ward_results
+2022-05-05,Sutton Vesey Ward,6,10059,,,,https://www.birmingham.gov.uk/directory_record/370719/sutton_vesey_ward_results
+2022-05-05,Sutton Walmley and Minworth Ward,7,6692,,,,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+2022-05-05,Sutton Wylde Green Ward,4,2587,,,,https://www.birmingham.gov.uk/directory_record/370718/sutton_wylde_green_ward_results
+2022-05-05,Tyseley and Hay Mills Ward,4,1789,,,,https://www.birmingham.gov.uk/directory_record/370712/tyseley_and_hay_mills_ward_results
+2022-05-05,Ward End Ward,4,2717,,,,https://www.birmingham.gov.uk/directory_record/370711/ward_end_ward_results
+2022-05-05,Weoley and Selly Oak Ward,8,9043,,,,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+2022-05-05,Yardley East Ward,3,2069,,,,https://www.birmingham.gov.uk/directory_record/370707/yardley_east_ward_results
+2022-05-05,Yardley West and Stechford Ward,3,2809,,,,https://www.birmingham.gov.uk/directory_record/370703/yardley_west_and_stetchford_ward_results

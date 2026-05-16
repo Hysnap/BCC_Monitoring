@@ -1,0 +1,380 @@
+person_id,person_name,election_date,ward_name,votes_received,is_elected,party_name,source_url
+6711b70b9f075c6c,Baker Amanda Caroline,2022-05-05,Acocks Green Ward,258,False,Green Party,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+879f28dd240212e7,Flynn Eamonn Kevin,2022-05-05,Acocks Green Ward,84,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+1cf7a09f1777f9a9,Harmer Roger Kingdon,2022-05-05,Acocks Green Ward,2225,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+32d3bfcbc7c319ca,Iqbal Malik Zafar,2022-05-05,Acocks Green Ward,288,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+abd529b603e2c273,Makrinov Ninna Isabel,2022-05-05,Acocks Green Ward,1531,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+c634377bf8e16696,O'Shea John Anthony,2022-05-05,Acocks Green Ward,1679,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+4be78cf9e0432ac4,Shingadia Sunil,2022-05-05,Acocks Green Ward,239,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+d82308043990da38,Wagg Penny,2022-05-05,Acocks Green Ward,1856,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370699/acocks_green_ward_results
+a1d46b1c249795c6,Deakin Jack,2022-05-05,Allens Cross Ward,922,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+693fdd0bc1b4876a,Fielden Claire Alexandra,2022-05-05,Allens Cross Ward,62,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+94d676f04796b33e,Freeman Eddie,2022-05-05,Allens Cross Ward,908,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+532fb2962d37342f,Rust Daniel Brian,2022-05-05,Allens Cross Ward,112,False,Green Party,https://www.birmingham.gov.uk/directory_record/370700/allens_cross_ward_results
+d4de508c2fbdeb32,Evans Jerry,2022-05-05,Alum Rock Ward,501,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370701/alum_rock_ward_results
+807939639bb33ccd,Hussain Ishraq,2022-05-05,Alum Rock Ward,751,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370701/alum_rock_ward_results
+59c4a38b1484708e,Idrees Mohammed,2022-05-05,Alum Rock Ward,3751,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370701/alum_rock_ward_results
+3ea25b698e3d5267,Khan Mariam,2022-05-05,Alum Rock Ward,3442,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370701/alum_rock_ward_results
+06f5a1e72b9eac2a,Rani Farhat,2022-05-05,Alum Rock Ward,175,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370701/alum_rock_ward_results
+c6c720661f90ad1a,Yousaf Wasim,2022-05-05,Alum Rock Ward,177,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370701/alum_rock_ward_results
+3f449d7ad171322a,Afzal Muhammad,2022-05-05,Aston Ward,2463,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+b37667c08af35648,Choudhury Jahid,2022-05-05,Aston Ward,216,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+abcd3e0d6ebd4d66,Coke Raymond George,2022-05-05,Aston Ward,127,False,We Matter Party,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+7ae8a8567c7d1902,Gerald Dorothy Elizabeth,2022-05-05,Aston Ward,148,False,We Matter Party,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+46e061b269ec70dd,Hakim Lokman,2022-05-05,Aston Ward,177,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+7b7bd1b1a0bfb894,Hussain Mumtaz,2022-05-05,Aston Ward,2542,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+d5fa29fb1a267444,Kauser Nagina,2022-05-05,Aston Ward,2223,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+19738e5d1cef6c1b,Khan Ayoub,2022-05-05,Aston Ward,3012,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+925d796a0dae9e7b,Meah Nazma Begum,2022-05-05,Aston Ward,265,False,Breakthrough Party,https://www.birmingham.gov.uk/directory_record/370702/aston_ward_results
+61eacd7eb0b04249,Guest Carol,2022-05-05,Balsall Heath West Ward,121,False,Green Party,https://www.birmingham.gov.uk/directory_record/370704/balsall_heath_west_ward_results
+9c4e2d8c03f4eace,Khatoon Haleema,2022-05-05,Balsall Heath West Ward,151,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370704/balsall_heath_west_ward_results
+54d01f5e363a4827,Malik Zhor,2022-05-05,Balsall Heath West Ward,710,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370704/balsall_heath_west_ward_results
+48fbd60a5250aa54,Moledina Shehla,2022-05-05,Balsall Heath West Ward,1150,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370704/balsall_heath_west_ward_results
+22a882116b98921d,Scrivens Paul Jonathan,2022-05-05,Balsall Heath West Ward,88,False,Workers Party - Birmingham,https://www.birmingham.gov.uk/directory_record/370704/balsall_heath_west_ward_results
+2d84e3e9f72e7042,Brewer Kerry,2022-05-05,Bartley Green Ward,1672,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+155a885eac5d2a37,Hook Elaine,2022-05-05,Bartley Green Ward,1624,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+4aabb03a05c9f417,Knowles Martin John,2022-05-05,Bartley Green Ward,151,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+399c118631a2010f,Lines Bruce John,2022-05-05,Bartley Green Ward,1814,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+b733f2520b58b52b,Morrow Jacob,2022-05-05,Bartley Green Ward,132,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+c9c670010b00e4fb,Preston Paul Simon,2022-05-05,Bartley Green Ward,1511,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+faecfffee3e40262,Robertson James,2022-05-05,Bartley Green Ward,259,False,Green Party,https://www.birmingham.gov.uk/directory_record/370705/bartley_green_ward_results
+0395e3dc7c458a14,Bishop Ian,2022-05-05,Billesley Ward,93,False,Reform UK,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+a3bb997e3748dc6f,Davis Phil,2022-05-05,Billesley Ward,2153,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+9d560965b100b121,Iroh Katherine,2022-05-05,Billesley Ward,2000,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+6d66e2b6da0f41d0,Maguire Clare,2022-05-05,Billesley Ward,279,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+28e5ee117cdb8ea4,McLernan Michael James Alexander,2022-05-05,Billesley Ward,1310,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+a26d79ed845348ee,Neal Ian,2022-05-05,Billesley Ward,183,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+f2a313d6dfd6fbac,Peacock Hilary Clare,2022-05-05,Billesley Ward,392,False,Green Party,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+acb5616ba6ea3ebb,Peacock Joseph Michael,2022-05-05,Billesley Ward,223,False,Green Party,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+db1c93ece4f3aaac,Qazi Nayaz,2022-05-05,Billesley Ward,1261,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370709/billesley_ward_results
+d05ba9eb5e4ac96f,Anton Christopher Stephen,2022-05-05,Birchfield Ward,159,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370710/birchfield_ward_results
+2349366b0fcb7116,Chanda Alak,2022-05-05,Birchfield Ward,211,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370710/birchfield_ward_results
+8ea6dfca9efc824f,Hussain Mahmood,2022-05-05,Birchfield Ward,1391,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370710/birchfield_ward_results
+c7107b225d7f3a21,Guest Martin John,2022-05-05,Bordesley and Highgate Ward,132,False,Green Party,https://www.birmingham.gov.uk/directory_record/370716/bordesley_and_highgate_ward_results
+32606fe94344d82b,Mosquito Yvonne Maria,2022-05-05,Bordesley and Highgate Ward,925,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370716/bordesley_and_highgate_ward_results
+7efc042f17bd1e4d,Talukder Zia,2022-05-05,Bordesley and Highgate Ward,311,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370716/bordesley_and_highgate_ward_results
+20a6ebb99c9b876b,Woollard Ed,2022-05-05,Bordesley and Highgate Ward,247,False,Workers Party - Birmingham,https://www.birmingham.gov.uk/directory_record/370716/bordesley_and_highgate_ward_results
+015cc7603838c32b,Aziz Raqeeb,2022-05-05,Bordesley Green Ward,1489,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370717/bordesley_green_ward_results
+9b95f0cf538e8ee6,Burkey Wajad,2022-05-05,Bordesley Green Ward,397,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370717/bordesley_green_ward_results
+77c118a35d5f5b98,Moynihan Gerry,2022-05-05,Bordesley Green Ward,309,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370717/bordesley_green_ward_results
+05fd175a3d752828,Curtis Robert Turner,2022-05-05,Bournbrook and Selly Park Ward,202,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+ce0d15f4a19365af,Gilbert Patrick Wiliam,2022-05-05,Bournbrook and Selly Park Ward,243,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+910cf69c4ff82b2a,Green Tom,2022-05-05,Bournbrook and Selly Park Ward,142,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+5b4982d865bbba2e,Jones Brigid,2022-05-05,Bournbrook and Selly Park Ward,1942,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+1529c5e37b14c979,McCarthy Karen Teresa,2022-05-05,Bournbrook and Selly Park Ward,1935,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+a61ed939a9ba4814,Nela Musa,2022-05-05,Bournbrook and Selly Park Ward,301,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+fc305d2a10b0647e,Nelson Jane Elizabeth,2022-05-05,Bournbrook and Selly Park Ward,546,False,Green Party,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+82213ed78b566fbe,Neville Mathew John,2022-05-05,Bournbrook and Selly Park Ward,237,False,Green Party,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+01f3cf96b5dc7e47,Rashid Tariq,2022-05-05,Bournbrook and Selly Park Ward,273,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370722/bournbrook_and_selly_park_ward_results
+5ccfbe8e025e9069,Clements Liz,2022-05-05,Bournville and Cotteridge Ward,3069,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+554f31c315414240,Dawkins Nigel,2022-05-05,Bournville and Cotteridge Ward,1489,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+5e9bf5f2abed94a1,Dixon Jack,2022-05-05,Bournville and Cotteridge Ward,1228,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+d7b678b344afd3f3,Grindrod Fred,2022-05-05,Bournville and Cotteridge Ward,2739,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+6afb52c221d84fa8,Hentsch Phillippa Mary Elizabeth,2022-05-05,Bournville and Cotteridge Ward,383,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+3e55fd5b68214173,Mabbett Ben,2022-05-05,Bournville and Cotteridge Ward,382,False,Green Party,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+f9821224d61ed716,Masters Rob,2022-05-05,Bournville and Cotteridge Ward,470,False,Green Party,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+2e15cfccfe630c8a,Radciffe David Stephen,2022-05-05,Bournville and Cotteridge Ward,275,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370715/bournville_and_cotteridge_ward_results
+7145a9c4bb19fd27,Barker David Seán,2022-05-05,Brandwood and Kings Heath Ward,2769,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+7c3d8cbe6c29f2c5,Bevin Phil,2022-05-05,Brandwood and Kings Heath Ward,111,False,Workers Party - Birmingham,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+4b06b1a5035298c9,Cox Patrick Hugo Anthony,2022-05-05,Brandwood and Kings Heath Ward,615,False,Green Party,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+137079c5cd545335,Hudson Mark,2022-05-05,Brandwood and Kings Heath Ward,485,False,Independent,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+290b179ad340376a,Hussain Asia,2022-05-05,Brandwood and Kings Heath Ward,968,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+ca812292b4bbd90a,Mullaney Martin James Paul,2022-05-05,Brandwood and Kings Heath Ward,1093,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+0c57a422def54791,Stanley Chris,2022-05-05,Brandwood and Kings Heath Ward,802,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+793d64131ae252d4,Trickett Lisa Stephanie,2022-05-05,Brandwood and Kings Heath Ward,2704,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+2ae93e1683e7714e,Voigt Astrid Gisela Margarete,2022-05-05,Brandwood and Kings Heath Ward,488,False,Green Party,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+301a958e109e4ea0,Whitby Harvey Stuart,2022-05-05,Brandwood and Kings Heath Ward,850,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+116a59d1015dadec,Wilson Lauren Elisse,2022-05-05,Brandwood and Kings Heath Ward,120,False,Workers Party - Birmingham,https://www.birmingham.gov.uk/directory_record/370714/brandwood_and_kings_heath_ward_results
+2b29c8e1a775b566,Donaldson Diane,2022-05-05,Bromford and Hodge Hill Ward,2405,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+7131481606beaa8f,Higgs James,2022-05-05,Bromford and Hodge Hill Ward,515,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+f6adafe1fe88573a,Khan Javed,2022-05-05,Bromford and Hodge Hill Ward,152,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+92fae1d2a89552ec,Mahmood Majid,2022-05-05,Bromford and Hodge Hill Ward,2434,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+4f779ae25a851a4f,Mehmood Asad,2022-05-05,Bromford and Hodge Hill Ward,155,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+b9ea7ecf248cc10b,Phillpotts Jack Andrew,2022-05-05,Bromford and Hodge Hill Ward,210,False,Green Party,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+dd7d816beb17c1f3,Zychon James John Francis,2022-05-05,Bromford and Hodge Hill Ward,384,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370706/bromford_and_hodge_hill_ward_results
+3e3d51903137490d,Goodwin Ray,2022-05-05,Castle Vale Ward,522,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370732/castle_vale_ward_results
+0df847a20af7a2cc,Macefield John Dell,2022-05-05,Castle Vale Ward,478,False,Green Party,https://www.birmingham.gov.uk/directory_record/370732/castle_vale_ward_results
+3221331c8bcdb259,Romain Tyrese Raymond Kingsley,2022-05-05,Castle Vale Ward,279,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370732/castle_vale_ward_results
+d629c9c289717bfa,Sucilla-O'Sullivan Kris,2022-05-05,Castle Vale Ward,11,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370732/castle_vale_ward_results
+bdb7a4aabb723f5f,Bertram Christopher John,2022-05-05,Druids Heath and Monyhull Ward,24,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370733/druids_heath_and_monyhull_ward_results
+cb7bfdc5f5b300a7,Fuller Andrew Michael,2022-05-05,Druids Heath and Monyhull Ward,163,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370733/druids_heath_and_monyhull_ward_results
+615b87ff4fffa214,Leddy Mike,2022-05-05,Druids Heath and Monyhull Ward,454,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370733/druids_heath_and_monyhull_ward_results
+456971b9721367c6,Pritchard Julien,2022-05-05,Druids Heath and Monyhull Ward,1890,False,Green Party,https://www.birmingham.gov.uk/directory_record/370733/druids_heath_and_monyhull_ward_results
+64d75f0a77fba5fd,Alden Deirdre Caroline,2022-05-05,Edgbaston Ward,1710,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+9a8ead56ffbed65f,Awasthi Ashish,2022-05-05,Edgbaston Ward,392,False,Green Party,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+26c13da1aba8cd8d,Bennett Matt,2022-05-05,Edgbaston Ward,1548,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+5b1c49a38c0a019a,Bryant James Liam,2022-05-05,Edgbaston Ward,243,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+f1de3bd8920bf86f,Hill Marie Joann,2022-05-05,Edgbaston Ward,1465,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+657d1f5da5bd7408,Kaur Bal Baljit,2022-05-05,Edgbaston Ward,1474,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+9667ba5d5c379dec,Scott Jamie Christian,2022-05-05,Edgbaston Ward,251,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370734/edgbaston_ward_results
+a433c9cd7bd1499a,Alden Robert James Cambray,2022-05-05,Erdington Ward,2469,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+be39c1df3019496e,Amin Mohammed,2022-05-05,Erdington Ward,86,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+f70b1253cfb7592a,Bi Suryiah,2022-05-05,Erdington Ward,1624,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+65a962b554fdad8e,Clawley Hazel Marjorie,2022-05-05,Erdington Ward,220,False,Green Party,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+47e139434522b339,Dad Basharat,2022-05-05,Erdington Ward,1643,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+08ba11fe6c00200d,Ferguson Andrew McKenzie,2022-05-05,Erdington Ward,161,False,Green Party,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+474ef6c750796e38,Green James Richard,2022-05-05,Erdington Ward,118,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+ed4040e5a082f793,Moore Gareth Raymond,2022-05-05,Erdington Ward,2047,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+53f28aaabd3dfba2,Ward Corinthia Joy,2022-05-05,Erdington Ward,95,False,Trade Unionist and Socialist Coalition Party,https://www.birmingham.gov.uk/directory_record/370735/erdington_ward_results
+8dd86ab2bbdb8264,Beck Peter Charles,2022-05-05,Frankley Great Park Ward,86,False,Green Party,https://www.birmingham.gov.uk/directory_record/370736/frankley_great_park_ward_results
+ae67afbccc8d7f45,Haynes Steve,2022-05-05,Frankley Great Park Ward,711,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370736/frankley_great_park_ward_results
+86edacd24d6d6c65,Lloyd Peter James,2022-05-05,Frankley Great Park Ward,71,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370736/frankley_great_park_ward_results
+4967e34525db4519,Morrall Simon,2022-05-05,Frankley Great Park Ward,1356,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370736/frankley_great_park_ward_results
+90e6deb46a9e105a,Hall Daphne Claire,2022-05-05,Garretts Green Ward,191,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370737/garretts_green_ward_results
+fb6773f206b1ac2a,Khan Shaukat Ali,2022-05-05,Garretts Green Ward,436,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370737/garretts_green_ward_results
+c5404e952be2ada4,Miah Saddak,2022-05-05,Garretts Green Ward,1301,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370737/garretts_green_ward_results
+1b3ae42120d23a1f,Bridle Marje,2022-05-05,Glebe Farm and Tile Cross Ward,1862,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370738/glebe_farm_and_tile_cross_ward_results
+e3bd0f615ad2355a,Cotton John Leslie Barton,2022-05-05,Glebe Farm and Tile Cross Ward,1704,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370738/glebe_farm_and_tile_cross_ward_results
+ea49d62576a07d71,Fox Matthew,2022-05-05,Glebe Farm and Tile Cross Ward,562,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370738/glebe_farm_and_tile_cross_ward_results
+b19e1939b5816b21,Hussain Iftekhar,2022-05-05,Glebe Farm and Tile Cross Ward,567,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370738/glebe_farm_and_tile_cross_ward_results
+735779825d0aa6c6,Mahmood Faisal,2022-05-05,Glebe Farm and Tile Cross Ward,486,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370738/glebe_farm_and_tile_cross_ward_results
+a9c29330c28939c4,Norman Elizabeth Anne,2022-05-05,Glebe Farm and Tile Cross Ward,306,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370738/glebe_farm_and_tile_cross_ward_results
+02ba34a50d6b2c27,Brown Mick,2022-05-05,Gravelly Hill Ward,807,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370739/gravelly_hill_ward_results
+7b864505b8d4a32b,Harper-Nunes Siobhan Bridget,2022-05-05,Gravelly Hill Ward,363,False,Green Party,https://www.birmingham.gov.uk/directory_record/370739/gravelly_hill_ward_results
+8354048d044af9eb,Lusk David,2022-05-05,Gravelly Hill Ward,34,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370739/gravelly_hill_ward_results
+329d315a5925e7d9,Mehmood Asif,2022-05-05,Gravelly Hill Ward,328,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370739/gravelly_hill_ward_results
+31ff2893009fe0b6,Patrick Thomas,2022-05-05,Gravelly Hill Ward,25,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370739/gravelly_hill_ward_results
+3af69aac1d1b5319,Ahmed Akhlaq,2022-05-05,Hall Green North Ward,2271,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+dfa8a029824c41be,Choudhry Tanveer,2022-05-05,Hall Green North Ward,1287,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+602fba8b88861b34,Courage Gareth William,2022-05-05,Hall Green North Ward,374,False,Green Party,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+2d0f72101dc52923,Hemming Alexender John Arthur,2022-05-05,Hall Green North Ward,415,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+73fe70d0f0553a51,Iqbal Malik,2022-05-05,Hall Green North Ward,1134,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+8d9b1dacaea69ca5,Spruce Andy,2022-05-05,Hall Green North Ward,430,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+c2e6c0c2944010f7,Suleman Saima,2022-05-05,Hall Green North Ward,2182,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370744/hall_green_north_ward_results
+502fce981df260b8,Ahmed Shafaq,2022-05-05,Hall Green South Ward,1071,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370745/hall_green_south_ward_results
+f1b0f32c15bdf46b,Huxtable Timothy Luke,2022-05-05,Hall Green South Ward,1427,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370745/hall_green_south_ward_results
+e63a8b0fc6e7b9ed,Lickiss David Alan Nigel,2022-05-05,Hall Green South Ward,118,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370745/hall_green_south_ward_results
+8077ec088f88d10f,Parker David James,2022-05-05,Hall Green South Ward,148,False,Green Party,https://www.birmingham.gov.uk/directory_record/370745/hall_green_south_ward_results
+1b27229390c81297,Freshwater Ed,2022-05-05,Handsworth Ward,95,False,Green Party,https://www.birmingham.gov.uk/directory_record/370740/handsworth_ward_results
+f65f21191415c915,Okae Fosu George Michael,2022-05-05,Handsworth Ward,67,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370740/handsworth_ward_results
+d5bf5ab3b922799b,Quinnen Hendrina,2022-05-05,Handsworth Ward,1397,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370740/handsworth_ward_results
+cdcc953ea70c098e,Surti Devia,2022-05-05,Handsworth Ward,116,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370740/handsworth_ward_results
+7a21854756e71e6c,Atwal Gurdial Singh,2022-05-05,Handsworth Wood Ward,2318,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370742/handsworth_wood_ward_results
+f9d853d76f8b9b77,Burgess Christopher James Foster,2022-05-05,Handsworth Wood Ward,361,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370742/handsworth_wood_ward_results
+fef6af886e99a74c,Chumber Ravinder Singh,2022-05-05,Handsworth Wood Ward,723,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370742/handsworth_wood_ward_results
+3d5e017c2d6fc411,Cox Emily Rohaise,2022-05-05,Handsworth Wood Ward,373,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370742/handsworth_wood_ward_results
+715a4bef3c71b728,Kooner Narinder Kaur,2022-05-05,Handsworth Wood Ward,2237,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370742/handsworth_wood_ward_results
+cb09f9b7ad504681,Uddin Sham,2022-05-05,Handsworth Wood Ward,551,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370742/handsworth_wood_ward_results
+451e5880883e9410,Brooks Martin John,2022-05-05,Harborne Ward,2923,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+d194591979c1fe32,Crisp Alistair,2022-05-05,Harborne Ward,628,False,Green Party,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+3ca1cb17d62442b4,Fowler Peter,2022-05-05,Harborne Ward,1919,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+5ac91d822b1e1d1b,Francis Jayne,2022-05-05,Harborne Ward,2815,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+1fbaea467a885c41,Garrett Ian Anthony George,2022-05-05,Harborne Ward,455,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+3ba220d750afdd5c,Harmer Joseph Benjamin,2022-05-05,Harborne Ward,532,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+142f29b9162f3231,O'Hara Harriet Rose,2022-05-05,Harborne Ward,1703,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370741/harborne_ward_results
+6d65c29d14a1b5c4,Azam Adil,2022-05-05,Heartlands Ward,284,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370743/heartlands_ward_results
+5a3dd95f2610647e,Ellinor Clair Elieen,2022-05-05,Heartlands Ward,139,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370743/heartlands_ward_results
+9dfbf88e3363b107,Shah Shafique,2022-05-05,Heartlands Ward,1672,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370743/heartlands_ward_results
+3211dd877d09b759,Higgs Adam Andrew,2022-05-05,Highters Heath Ward,1094,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370746/highters_heath_ward_results
+b789f39effec50d8,Thomas Clare Louise,2022-05-05,Highters Heath Ward,109,False,Green Party,https://www.birmingham.gov.uk/directory_record/370746/highters_heath_ward_results
+daaf3ade9307cd8a,Waltho Lynda Ellen,2022-05-05,Highters Heath Ward,793,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370746/highters_heath_ward_results
+f4915666da033e1f,Douglas Kingsley Seymour,2022-05-05,Holyhead Ward,73,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370747/holyhead_ward_results
+3b80f61e9cc163a2,Hardie Andrew,2022-05-05,Holyhead Ward,133,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370747/holyhead_ward_results
+b8d5ef9d3a2f9948,Shergill Rinkal,2022-05-05,Holyhead Ward,1618,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370747/holyhead_ward_results
+d146330e7cfeb72b,Trench Karen Geraldine,2022-05-05,Holyhead Ward,293,False,Independent,https://www.birmingham.gov.uk/directory_record/370747/holyhead_ward_results
+56b88dbbe6964d31,Aitken Alex,2022-05-05,Kings Norton North Ward,1353,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370754/kings_norton_north_ward_results
+79c5ff09767ddf12,Blissett Marsha,2022-05-05,Kings Norton North Ward,47,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370754/kings_norton_north_ward_results
+57ee8ec1c02c1c71,Sorboen Kari Benedikte,2022-05-05,Kings Norton North Ward,92,False,Green Party,https://www.birmingham.gov.uk/directory_record/370754/kings_norton_north_ward_results
+70bf16c7f4e67dc5,Wood Barbara Iris,2022-05-05,Kings Norton North Ward,949,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370754/kings_norton_north_ward_results
+4a31efd62d5f0ae9,Clancy Robert Joseph,2022-05-05,Kings Norton South Ward,365,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370755/kings_norton_south_ward_results
+b5b757d97b54cc46,Grant Rob,2022-05-05,Kings Norton South Ward,1137,False,Green Party,https://www.birmingham.gov.uk/directory_record/370755/kings_norton_south_ward_results
+bf54ea502396f0c6,Kumar Sonia,2022-05-05,Kings Norton South Ward,732,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370755/kings_norton_south_ward_results
+a18ede8f0de343bf,Ambler Doctor Simon John,2022-05-05,Kingstanding Ward,142,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+4c04798b57b3926b,Brittain Ben,2022-05-05,Kingstanding Ward,1274,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+4de8700b330d315e,Foster Joe,2022-05-05,Kingstanding Ward,50,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+d634dddecfc54440,Hughes Des,2022-05-05,Kingstanding Ward,1350,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+449a895d8f759932,Khan Adam,2022-05-05,Kingstanding Ward,19,False,We Matter Party,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+c8c75ee4775480fd,Painter Richard Hugh,2022-05-05,Kingstanding Ward,125,False,Green Party,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+7c9bca107adac696,Payne Rick,2022-05-05,Kingstanding Ward,1286,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+f91bcbd758e0c310,Rasheed Naz,2022-05-05,Kingstanding Ward,1221,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+79919f3f1c773e9c,Taylor Patricia Susan,2022-05-05,Kingstanding Ward,99,False,Green Party,https://www.birmingham.gov.uk/directory_record/370749/kingstanding_ward_results
+d860c9c8aca9f0c2,Axford Kenneth,2022-05-05,Ladywood Ward,422,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+3209833fcef538ee,Bore Albert,2022-05-05,Ladywood Ward,1819,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+26c00f00a58d37c3,Dargue Lee James,2022-05-05,Ladywood Ward,278,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+0446202d1d70e0b8,Gaussen David,2022-05-05,Ladywood Ward,413,False,Green Party,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+caabb0b4d1e819e1,Hartley Kath,2022-05-05,Ladywood Ward,1764,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+4bfc0b1083362846,Hordern Guy,2022-05-05,Ladywood Ward,358,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+1d82c63e9177040e,Jeyanayagam Piriyasha,2022-05-05,Ladywood Ward,85,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+ef5ac6ef4ff94f6e,Wilson John,2022-05-05,Ladywood Ward,193,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370756/ladywood_ward_results
+54c8685bfbfd6ef6,Abdi Muhamed,2022-05-05,Longbridge and West Heath Ward,1366,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+5b1117729220b432,Clancy Debbie,2022-05-05,Longbridge and West Heath Ward,2138,False,Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+869050f7286e27d0,Kalik Sanja,2022-05-05,Longbridge and West Heath Ward,1340,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+645f5dd8b9bdd470,McKears Sylvia Jane,2022-05-05,Longbridge and West Heath Ward,294,False,Green Party,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+7eeb10c65b258547,Mendez Violaine,2022-05-05,Longbridge and West Heath Ward,180,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+b8b66447f6484d25,Stanton Elly,2022-05-05,Longbridge and West Heath Ward,290,False,Green Party,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+ac8beff4bcf3fddf,Storer Ron,2022-05-05,Longbridge and West Heath Ward,1874,False,Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+b08c3e63f4111d66,Sturt-Joy Michael,2022-05-05,Longbridge and West Heath Ward,160,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+dc1c72b6b5fdaedd,Walder Clive Richard,2022-05-05,Longbridge and West Heath Ward,94,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370758/longbridge_and_west_heath_ward_results
+b24dcd3aaa9c239a,Dennis Kefentse,2022-05-05,Lozells Ward,118,False,Green Party,https://www.birmingham.gov.uk/directory_record/370757/lozells_ward_results
+e6b0b312845fa894,Faisal Mohammed,2022-05-05,Lozells Ward,691,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370757/lozells_ward_results
+9b7421fe4b71908d,Zaffar Waseem,2022-05-05,Lozells Ward,1955,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370757/lozells_ward_results
+7acab9ae086f7ac4,Jenkins Kerry Shaunna,2022-05-05,Moseley Ward,2497,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+6de49c9e66a79709,Khan Abid,2022-05-05,Moseley Ward,407,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+5a7cf39506985a43,Khan Iqrah,2022-05-05,Moseley Ward,363,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+2c6a4d331d21cde6,Knowles Izzy,2022-05-05,Moseley Ward,3025,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+cd84420c78b41223,Porteous Edward,2022-05-05,Moseley Ward,553,False,Green Party,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+c2bedd3dc3903650,Russell Radley,2022-05-05,Moseley Ward,1867,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+d15d7f56cb7d8790,Straker Welds Martin Gladstone,2022-05-05,Moseley Ward,2126,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370759/moseley_ward_results
+42e5b9c6e85ea112,Babington Jamie,2022-05-05,Nechells Ward,150,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370760/nechells_ward_results
+60cdc2b177af4307,Marsham Lee,2022-05-05,Nechells Ward,1194,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370760/nechells_ward_results
+a44487634cb543b0,Islam Zia,2022-05-05,Newtown Ward,1031,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370762/newtown_ward_results
+c1acd5ad2a33c87e,Jaddoo Desmond Gustavus,2022-05-05,Newtown Ward,212,False,We Matter Party,https://www.birmingham.gov.uk/directory_record/370762/newtown_ward_results
+68819fa096dded2f,Khalique Abdul,2022-05-05,Newtown Ward,267,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370762/newtown_ward_results
+9db6d6f412fc12ec,Ruumi Cabdulqaadir,2022-05-05,Newtown Ward,266,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370762/newtown_ward_results
+00a4246ee4578abf,Bernasconi Marcus George,2022-05-05,North Edgbaston Ward,2353,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+778d1e40e4c47d80,Burford Timon James,2022-05-05,North Edgbaston Ward,208,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+5d2a8d6973d6d38f,Chaudary Kamran,2022-05-05,North Edgbaston Ward,1043,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+133b27f15d9c8ae6,Downs William,2022-05-05,North Edgbaston Ward,108,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+721b79918b7ab224,Thompson Sharon Anne-Marie,2022-05-05,North Edgbaston Ward,2178,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+11264c77e8caae24,Ward Michael,2022-05-05,North Edgbaston Ward,274,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+e9ea690f245d7f73,Zaman Wasim,2022-05-05,North Edgbaston Ward,1003,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370761/north_edgbaston_ward_results
+86db3a9d7f4f5fcb,Kurt-Elli Kirsten,2022-05-05,Northfield Ward,1584,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370763/northfield_ward_results
+14a1846689b6ef51,Moles Andy,2022-05-05,Northfield Ward,118,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370763/northfield_ward_results
+1069b8f2cab3590c,Rowe Keith Alexander,2022-05-05,Northfield Ward,973,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370763/northfield_ward_results
+5ff8a18e905456ed,Wilson Trevor Tudor,2022-05-05,Northfield Ward,126,False,Green Party,https://www.birmingham.gov.uk/directory_record/370763/northfield_ward_results
+508ce27ea5921036,Bunting Josh,2022-05-05,Oscott Ward,313,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370764/oscott_ward_results
+8cd5825c678a136e,Dring Barbara,2022-05-05,Oscott Ward,1502,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370764/oscott_ward_results
+7155c42c6e06136f,Hall Alex,2022-05-05,Oscott Ward,1477,False,Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370764/oscott_ward_results
+f489865a9a4d3259,Majahid Haleem,2022-05-05,Oscott Ward,1204,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370764/oscott_ward_results
+54c86873e7079aff,Sandhu Darius,2022-05-05,Oscott Ward,1506,False,Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370764/oscott_ward_results
+346fafd7f0ac40d7,Warnaby Nora Mary Teresa,2022-05-05,Oscott Ward,224,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370764/oscott_ward_results
+3ebf90f132c06b6f,Ahmed Jahangir,2022-05-05,Perry Barr Ward,348,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370765/perry_barr_ward_results
+ce32b3883ea0d45c,Hanif Mohammed,2022-05-05,Perry Barr Ward,1673,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370765/perry_barr_ward_results
+8b5abd993f6a5c41,Hunt Jon,2022-05-05,Perry Barr Ward,2286,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370765/perry_barr_ward_results
+d14f7e9d1a886748,Jan Morriam,2022-05-05,Perry Barr Ward,1841,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370765/perry_barr_ward_results
+85df681ec0831646,Jenkins William,2022-05-05,Perry Barr Ward,291,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370765/perry_barr_ward_results
+87ba6e88c6de4770,Williams Fiona Jocelyn Mair,2022-05-05,Perry Barr Ward,1324,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370765/perry_barr_ward_results
+dcfb9fc0c76df312,Allsop Stephen Richard,2022-05-05,Perry Common Ward,52,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370766/perry_common_ward_results
+bfc6c5767d88db99,Bermingham Jillian Joanne,2022-05-05,Perry Common Ward,892,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370766/perry_common_ward_results
+a1ee8acb2d4530a4,Boyle Stephanie,2022-05-05,Perry Common Ward,45,False,Green Party,https://www.birmingham.gov.uk/directory_record/370766/perry_common_ward_results
+b52bdd2cd230792a,Friel Siobhan,2022-05-05,Perry Common Ward,21,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370766/perry_common_ward_results
+48055f51109dd66d,Okello Rachel Judith,2022-05-05,Perry Common Ward,684,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370766/perry_common_ward_results
+1be40970c8bc1e59,Deamer Robert James David,2022-05-05,Pype Hayes Ward,105,False,Green Party,https://www.birmingham.gov.uk/directory_record/370767/pype_hayes_ward_results
+fd89fd8441673bd0,Mahmood Basharat,2022-05-05,Pype Hayes Ward,911,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370767/pype_hayes_ward_results
+7e8fea23e71ac9fb,Murray Bill,2022-05-05,Pype Hayes Ward,28,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370767/pype_hayes_ward_results
+1d3363c8e5976049,Watts Gerald,2022-05-05,Pype Hayes Ward,45,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370767/pype_hayes_ward_results
+73a4e98c77df1b4e,Welch Clifton Frederick,2022-05-05,Pype Hayes Ward,819,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370767/pype_hayes_ward_results
+fb7fdb5c7e076032,Anderson Sue,2022-05-05,Quinton Ward,222,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+2fe53a36e0237e7d,Bolton James Liam Pennington,2022-05-05,Quinton Ward,292,False,Green Party,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+84d0099cb34852ec,Forsyth Sam,2022-05-05,Quinton Ward,2249,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+86d71f55732cda3c,Garrett Stephanie Larissa,2022-05-05,Quinton Ward,192,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+925df295f80d556f,McCormack Connor Brendan,2022-05-05,Quinton Ward,2064,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+781261ccd5b29933,Rainbow Lauren,2022-05-05,Quinton Ward,2163,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+0290f9fa4536670d,Stanford Dominic James,2022-05-05,Quinton Ward,2136,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370768/quinton_ward_results
+bbfddfe514b0ad7e,Ball Robert Michael,2022-05-05,Rubery and Rednal Ward,117,False,Green Party,https://www.birmingham.gov.uk/directory_record/370769/rubery_and_rednal_ward_results
+7f12dca6687eebdf,Delaney Adrian Joseph,2022-05-05,Rubery and Rednal Ward,918,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370769/rubery_and_rednal_ward_results
+857746157084fce6,Kennedy Tony,2022-05-05,Rubery and Rednal Ward,776,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370769/rubery_and_rednal_ward_results
+241b0ac6e4d81346,Lister Thomas Daniel,2022-05-05,Rubery and Rednal Ward,50,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370769/rubery_and_rednal_ward_results
+ddc4916cbe29393d,Allsop Eve,2022-05-05,Shard End Ward,100,False,Green Party,https://www.birmingham.gov.uk/directory_record/370772/shard_end_ward_results
+49f8012e47097705,Barber Christopher Francis,2022-05-05,Shard End Ward,80,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370772/shard_end_ward_results
+4f91a378a9dad40f,Briggs Tony,2022-05-05,Shard End Ward,371,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370772/shard_end_ward_results
+8bf3fb4fd4664365,Ward Ian Antony,2022-05-05,Shard End Ward,854,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370772/shard_end_ward_results
+628a04b5ff7fc7ce,Abdi Isra,2022-05-05,Sheldon Ward,835,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+44e183309726be95,Andrews Mark David,2022-05-05,Sheldon Ward,89,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+d08ebf5893ad03d9,Axford Susan,2022-05-05,Sheldon Ward,564,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+24c0da7660b92850,Green Colin Francis,2022-05-05,Sheldon Ward,1534,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+7582c9b250bd3209,Harrison Kevin,2022-05-05,Sheldon Ward,218,False,Green Party,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+07df2e4a3310d29b,Jenkins Oliver,2022-05-05,Sheldon Ward,513,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+5b0f4fb4cc640365,Piekarz Joseph,2022-05-05,Sheldon Ward,743,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+fc0cdfad7370b1d4,Tilsley Paul Calvin,2022-05-05,Sheldon Ward,1752,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370773/sheldon_ward_results
+be3a7999c32ce250,Abu Nowshed,2022-05-05,Small Heath Ward,1081,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370728/small_heath_ward_results
+3f1b71eedc552f06,Bano Shabina,2022-05-05,Small Heath Ward,2142,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370728/small_heath_ward_results
+703e132ad9ea2923,Hussain Aftab,2022-05-05,Small Heath Ward,800,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370728/small_heath_ward_results
+82b70e94ca64d93a,Khan Saqib,2022-05-05,Small Heath Ward,2005,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370728/small_heath_ward_results
+5f65f9742e75d088,Sadiq Naveed,2022-05-05,Small Heath Ward,1290,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370728/small_heath_ward_results
+596c3994bd8a3daf,Saeed Mohammed,2022-05-05,Small Heath Ward,1406,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370728/small_heath_ward_results
+719b4498c0b3b745,Christoffersen Mette,2022-05-05,Soho and Jewellery Quarter Ward,473,False,Green Party,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+f89b2513ece0c0a9,Coffey Janet,2022-05-05,Soho and Jewellery Quarter Ward,391,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+b46405a9c69a0ac9,Hardy Gareth Andrew,2022-05-05,Soho and Jewellery Quarter Ward,300,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+c01b07f0d9216b5a,Hashmi Ali,2022-05-05,Soho and Jewellery Quarter Ward,305,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+af64bfe98d2c0161,Lal Chaman,2022-05-05,Soho and Jewellery Quarter Ward,2399,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+bcfa50606918af5d,Perrott James,2022-05-05,Soho and Jewellery Quarter Ward,242,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+f612c342ea0df0df,Spence Sybil Eurlena,2022-05-05,Soho and Jewellery Quarter Ward,2146,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370730/soho_and_jewellery_quarter_ward_results
+d331b7dbbcd5b04e,Bashir Anser,2022-05-05,South Yardley Ward,515,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370727/south_yardley_ward_results
+64708fe777e3e8cf,Choudhry Zaker Ullah,2022-05-05,South Yardley Ward,1062,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370727/south_yardley_ward_results
+a33dc0c3b330d663,Garghan Christopher Paul,2022-05-05,South Yardley Ward,90,False,Green Party,https://www.birmingham.gov.uk/directory_record/370727/south_yardley_ward_results
+0e522192c744910f,Mackey Julia,2022-05-05,South Yardley Ward,220,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370727/south_yardley_ward_results
+92ac21eaa2229dac,Severn Bob,2022-05-05,South Yardley Ward,20,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370727/south_yardley_ward_results
+69742611131a7fec,Azim Mohammed,2022-05-05,Sparkbrook and Balsall Heath East Ward,2708,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+22e70baafd7966cb,Bari Abdul,2022-05-05,Sparkbrook and Balsall Heath East Ward,937,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+692c96e6c7bc8888,Bishop Paul,2022-05-05,Sparkbrook and Balsall Heath East Ward,173,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+ca1b8f3dc745cc1f,Crickmay Maddison Sarah-Jane,2022-05-05,Sparkbrook and Balsall Heath East Ward,131,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+e1145a465b1c9215,Harrison Michael John,2022-05-05,Sparkbrook and Balsall Heath East Ward,186,False,Green Party,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+c46d604910c74c44,Hussain Shabrana,2022-05-05,Sparkbrook and Balsall Heath East Ward,2417,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+78188d4680860877,Kabir Md Obaydul,2022-05-05,Sparkbrook and Balsall Heath East Ward,776,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370770/sparkbrook_and_balsall_heath_east_ward_results
+6bc5c1e775fbc230,Al-Haq Aysan,2022-05-05,Sparkhill Ward,261,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370726/sparkhill_ward_results
+caf6688d1a64205d,Asad Aneela,2022-05-05,Sparkhill Ward,537,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370726/sparkhill_ward_results
+55a910ed9dcc8403,Brennan Nicky,2022-05-05,Sparkhill Ward,2889,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370726/sparkhill_ward_results
+94dd6354475cb761,Mahmood Rashad,2022-05-05,Sparkhill Ward,3020,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370726/sparkhill_ward_results
+43051b6301b2a293,Rehman Habib,2022-05-05,Sparkhill Ward,739,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370726/sparkhill_ward_results
+7e3869076246926a,Wilkinson Anthony,2022-05-05,Sparkhill Ward,166,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370726/sparkhill_ward_results
+e9e181088b126bdb,Banting Philip Andrew,2022-05-05,Stirchley Ward,125,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370721/stirchley_ward_results
+d3c25c485411195c,Knight Graham,2022-05-05,Stirchley Ward,361,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370721/stirchley_ward_results
+4e0482a9fffbf329,Locke Mary Anne,2022-05-05,Stirchley Ward,1900,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/directory_record/370721/stirchley_ward_results
+971403903bad075e,Masters Eleanor,2022-05-05,Stirchley Ward,229,False,Green Party,https://www.birmingham.gov.uk/directory_record/370721/stirchley_ward_results
+af7f13b0dd9a6923,Assheton Janet,2022-05-05,Stockland Green Ward,177,False,Green Party,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+f6bfb10666f45417,Green Roxanne,2022-05-05,Stockland Green Ward,183,False,Green Party,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+66505d51b14b796a,Jones Jane Esther,2022-05-05,Stockland Green Ward,2040,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+0115d52e8a78e4f8,Kayani Mohammad,2022-05-05,Stockland Green Ward,753,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+e4adf43af8a9195b,Khan Amar,2022-05-05,Stockland Green Ward,1871,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+a266181f6b6eb295,Moore Charlie,2022-05-05,Stockland Green Ward,159,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+d5337803c6e0e566,Murphy Estelle Louise,2022-05-05,Stockland Green Ward,757,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+139a2f2cbf0ef331,Norris Joe,2022-05-05,Stockland Green Ward,81,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+63a4f77611a2a2ec,Woodley Ted,2022-05-05,Stockland Green Ward,111,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/directory_record/370723/stockland_green_ward_results
+dd26e150e5be5851,Barley Roger Eric,2022-05-05,Sutton Four Oaks Ward,452,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370771/sutton_four_oaks_ward_results
+189084bebee3a0d8,Cornish Maureen,2022-05-05,Sutton Four Oaks Ward,1658,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370771/sutton_four_oaks_ward_results
+f8f3611387d95646,Hudson Linda Mary,2022-05-05,Sutton Four Oaks Ward,151,False,Green Party,https://www.birmingham.gov.uk/directory_record/370771/sutton_four_oaks_ward_results
+b2d35e0008b58ca0,Willett David Michael,2022-05-05,Sutton Four Oaks Ward,246,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370771/sutton_four_oaks_ward_results
+49512d70c4dab6fc,Jenkins Meirion,2022-05-05,Sutton Mere Green Ward,1717,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370729/sutton_mere_green_ward_results
+9ad028efbd1f7307,Mackenzie Max Cameron,2022-05-05,Sutton Mere Green Ward,573,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370729/sutton_mere_green_ward_results
+354e06c0b7889896,Okole Anne Margaret,2022-05-05,Sutton Mere Green Ward,151,False,Green Party,https://www.birmingham.gov.uk/directory_record/370729/sutton_mere_green_ward_results
+8c4647ded1a7fe65,Wilber Regine,2022-05-05,Sutton Mere Green Ward,241,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370729/sutton_mere_green_ward_results
+9cdc80ca4beff4a2,Auton Ben,2022-05-05,Sutton Reddicap Ward,193,False,Green Party,https://www.birmingham.gov.uk/directory_record/370725/sutton_reddicap_ward_results
+0dbb2164bcd57263,Parkin Richard Frederick Jex,2022-05-05,Sutton Reddicap Ward,1172,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370725/sutton_reddicap_ward_results
+09f8eda63725e6fb,Preston Judy Annemarie,2022-05-05,Sutton Reddicap Ward,557,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370725/sutton_reddicap_ward_results
+f54f6f7b041ad02f,Mackey Ewan Forbes,2022-05-05,Sutton Roughley Ward,1620,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370724/sutton_roughley_ward_results
+fc6feafa9c0a16cc,Masih Brandon,2022-05-05,Sutton Roughley Ward,239,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370724/sutton_roughley_ward_results
+4caa7799a1b20917,Mika Pat,2022-05-05,Sutton Roughley Ward,736,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370724/sutton_roughley_ward_results
+b1af42fe2bca256e,McCollin Rachel Emma,2022-05-05,Sutton Trinity Ward,266,False,Green Party,https://www.birmingham.gov.uk/directory_record/370720/sutton_trinity_ward_results
+0a087ce35da0cec1,Pears David Christopher,2022-05-05,Sutton Trinity Ward,1154,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370720/sutton_trinity_ward_results
+36ea472dee37bdde,Quinn Peter Anthony,2022-05-05,Sutton Trinity Ward,773,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370720/sutton_trinity_ward_results
+6051827f81c4b6d4,Wilkinson Jenny,2022-05-05,Sutton Trinity Ward,210,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370720/sutton_trinity_ward_results
+abdf39ff763e43ed,Cairns Jan,2022-05-05,Sutton Vesey Ward,1880,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370719/sutton_vesey_ward_results
+488d47092690686a,Eperjesi Frank,2022-05-05,Sutton Vesey Ward,1519,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370719/sutton_vesey_ward_results
+7c10711cc40869a3,Lewis Mark Andrew,2022-05-05,Sutton Vesey Ward,331,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370719/sutton_vesey_ward_results
+7621907439372fba,Pocock Rob,2022-05-05,Sutton Vesey Ward,3335,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370719/sutton_vesey_ward_results
+68e10dcb0b93506a,Richardson Doctor Paul Benjamin,2022-05-05,Sutton Vesey Ward,246,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370719/sutton_vesey_ward_results
+e0184d29f136179f,Scott Kath,2022-05-05,Sutton Vesey Ward,2748,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370719/sutton_vesey_ward_results
+b37e9dd005007858,Barrie David Stuart,2022-05-05,Sutton Walmley and Minworth Ward,2223,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+0df854372f678f4b,Blenkinsop Joseph Anselm,2022-05-05,Sutton Walmley and Minworth Ward,770,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+4ee43042bf248935,Cooke David,2022-05-05,Sutton Walmley and Minworth Ward,415,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+e9257652a3078537,Garrington James Austin,2022-05-05,Sutton Walmley and Minworth Ward,382,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+fb303a1b47ff28dc,Marriott Colin Leslie Fredric,2022-05-05,Sutton Walmley and Minworth Ward,384,False,Green Party,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+0b939cf6ec9bbc00,Wilde Ruth Anna Jane,2022-05-05,Sutton Walmley and Minworth Ward,656,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+46baf6996d494797,Wood Ken,2022-05-05,Sutton Walmley and Minworth Ward,1862,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370713/sutton_walmley_and_minworth_ward_results
+7c90b8902e044071,Challenor Zoe,2022-05-05,Sutton Wylde Green Ward,172,False,Green Party,https://www.birmingham.gov.uk/directory_record/370718/sutton_wylde_green_ward_results
+c68efa3f1e080b2e,Johnson Terry,2022-05-05,Sutton Wylde Green Ward,630,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370718/sutton_wylde_green_ward_results
+9830e059cb46a121,Spencer Doctor John Malcolm,2022-05-05,Sutton Wylde Green Ward,296,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370718/sutton_wylde_green_ward_results
+a1aeba9cebdef27a,Yip Alex,2022-05-05,Sutton Wylde Green Ward,1489,False,The Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370718/sutton_wylde_green_ward_results
+ca7f471823290575,Amjad Sajad,2022-05-05,Tyseley and Hay Mills Ward,184,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370712/tyseley_and_hay_mills_ward_results
+2a9d2e7472f4441e,Begum Najma,2022-05-05,Tyseley and Hay Mills Ward,155,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370712/tyseley_and_hay_mills_ward_results
+bac7569e001b2658,Hindley Joanna Mae,2022-05-05,Tyseley and Hay Mills Ward,118,False,Green Party,https://www.birmingham.gov.uk/directory_record/370712/tyseley_and_hay_mills_ward_results
+b732217a2b675376,Iqbal Zafar,2022-05-05,Tyseley and Hay Mills Ward,1332,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370712/tyseley_and_hay_mills_ward_results
+f79ab68b34443cfb,Ali Hassan,2022-05-05,Ward End Ward,457,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370711/ward_end_ward_results
+b3455914b82086f5,Ali Naz,2022-05-05,Ward End Ward,938,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370711/ward_end_ward_results
+7581c2ed247a62e9,Bi Bushra,2022-05-05,Ward End Ward,1186,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370711/ward_end_ward_results
+0a7971cca0aa82d3,Khan Imran Ali,2022-05-05,Ward End Ward,136,False,Green Party,https://www.birmingham.gov.uk/directory_record/370711/ward_end_ward_results
+4c880829815bbf41,Axe Kirsty Jayne,2022-05-05,Weoley and Selly Oak Ward,326,False,Green Party,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+72939e0b39ac69bb,Ellinor Luke,2022-05-05,Weoley and Selly Oak Ward,289,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+3a0f6edd8973a18f,Hammond Claire Marie,2022-05-05,Weoley and Selly Oak Ward,324,False,Green Party,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+fb179cf16e73538c,Mills Philip,2022-05-05,Weoley and Selly Oak Ward,246,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+08344f389b11295f,Perks Miranda Juliet,2022-05-05,Weoley and Selly Oak Ward,2427,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+b1a3505dd33bcad0,Smith Claire Lesley,2022-05-05,Weoley and Selly Oak Ward,1628,False,Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+437baff35b441817,Smith Paul Michael,2022-05-05,Weoley and Selly Oak Ward,1549,False,Conservative Party Candidate,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+f3b349c433cd0241,Tennant Jamie,2022-05-05,Weoley and Selly Oak Ward,2254,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370708/weoley_and_selly_oak_ward_results
+2d3b3c194bb4b06f,Broadley Ben,2022-05-05,Yardley East Ward,174,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370707/yardley_east_ward_results
+7689cfded0ad5d83,Harries Deborah,2022-05-05,Yardley East Ward,1220,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370707/yardley_east_ward_results
+224b1aff6fb9b27d,Khuhro Fayaz Ahmed,2022-05-05,Yardley East Ward,675,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370707/yardley_east_ward_results
+a4ac81f810319efa,Baz Baber,2022-05-05,Yardley West and Stechford Ward,1994,False,Liberal Democrats,https://www.birmingham.gov.uk/directory_record/370703/yardley_west_and_stetchford_ward_results
+2695a96bae358970,Hardie Monica,2022-05-05,Yardley West and Stechford Ward,98,False,Local Conservatives,https://www.birmingham.gov.uk/directory_record/370703/yardley_west_and_stetchford_ward_results
+aeaa7c4269456bd2,John Yvette,2022-05-05,Yardley West and Stechford Ward,717,False,Labour Party,https://www.birmingham.gov.uk/directory_record/370703/yardley_west_and_stetchford_ward_results

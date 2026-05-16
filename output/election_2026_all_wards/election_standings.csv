@@ -1,0 +1,616 @@
+person_id,person_name,election_date,ward_name,votes_received,is_elected,party_name,source_url
+aa2c01a53bddb7c0,"Freeman, Eddie",2026-05-07,Allens Cross Ward,949,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026
+e2c1a60e8a320dec,"Lovell-Huckle, Seb",2026-05-07,Allens Cross Ward,451,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026
+746b987700a76b39,"Rust, Daniel",2026-05-07,Allens Cross Ward,381,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026
+dc2cf1e98acbadf4,"Smith, Paul",2026-05-07,Allens Cross Ward,651,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026
+1870736a2ff1315c,"Toescu, Emil-Crisan",2026-05-07,Allens Cross Ward,76,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026
+e407304848a7e3d8,"Wicking, Theo",2026-05-07,Allens Cross Ward,259,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3197/allens_cross_ward_election_2026
+f5d7985c1c7f3da2,"Ahamad, Hussain",2026-05-07,Alum Rock Ward,596,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+794865a037f9402b,"Bloxham, David",2026-05-07,Alum Rock Ward,457,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+b2ff0757fa8d6514,"Hardie, Monica Catherine",2026-05-07,Alum Rock Ward,92,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+b2883d74f1037b64,"Hussain, Asia",2026-05-07,Alum Rock Ward,301,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+bd7565dc9074a377,"Khalid, Nosheen",2026-05-07,Alum Rock Ward,3307,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+b142f87d822ef8f8,"Khan, Ansar Ali",2026-05-07,Alum Rock Ward,2424,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+b8c7734b79830807,"Khan, Mariam",2026-05-07,Alum Rock Ward,2223,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+38580af779fe327f,"Mahmood, Shaukat",2026-05-07,Alum Rock Ward,3266,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+e5cef4c30314da6c,"Malhotra, Wajid Bashir",2026-05-07,Alum Rock Ward,227,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+6c770b22618f4703,"M c Pake, Thomas Ian",2026-05-07,Alum Rock Ward,126,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+b1495fea51f331e5,"Strangward, Karen Jayne",2026-05-07,Alum Rock Ward,114,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+284d8c8e714b9e94,"Wood, Barbara",2026-05-07,Alum Rock Ward,65,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3198/alum_rock_ward_election_2026
+39fd09e52cd72db7,"Ahmed, Saeed",2026-05-07,Aston Ward,1610,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+bc1beb0eabf7a2cc,"Ali, Zafar",2026-05-07,Aston Ward,1161,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+f4530a854f7664fd,"Dobson, Desmond Hayden",2026-05-07,Aston Ward,111,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+f830ee5fffcd15ab,"Fitzgerald, Adam",2026-05-07,Aston Ward,109,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+bee1d8f477dbf4ec,"Gerald, Dorothy Elizabeth",2026-05-07,Aston Ward,128,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+3d134f7f112780e1,"Groom, Claire",2026-05-07,Aston Ward,554,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+1a2e7d457cd1ed89,"Guest, Carol",2026-05-07,Aston Ward,462,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+96c6ff1a19872d50,"Hanif, Mohammed",2026-05-07,Aston Ward,1505,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+d0dc0dbdb37ad627,"Hussain, Mumtaz",2026-05-07,Aston Ward,2115,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+1d5ffb2f7c3f1dc0,"Hussain, Naib",2026-05-07,Aston Ward,542,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+fa5ddba70bf0f486,"Islam, Ziaul",2026-05-07,Aston Ward,877,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+52fa89f2319ccfaf,"Lambert, Derek Desmond Harold",2026-05-07,Aston Ward,95,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+88a5fe93d9f1e5f1,"Shinnie, Damon Scott",2026-05-07,Aston Ward,98,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+db4556c9d82a611b,"Shumon, Abdul Choudhury",2026-05-07,Aston Ward,2254,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3199/aston_ward_election_2026
+3bb8b1f4fa09029a,"Ali, Duncan",2026-05-07,Balsall Heath West Ward,934,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026
+1c19e95e656daaf1,"Amin, Raja Mohammed",2026-05-07,Balsall Heath West Ward,438,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026
+b63bdb50117bf16d,"Hordern, Guy",2026-05-07,Balsall Heath West Ward,80,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026
+4b130b5f20d17e89,"Malik, Zhor",2026-05-07,Balsall Heath West Ward,518,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026
+fc4c6c75f31b5668,"Naz, Farah",2026-05-07,Balsall Heath West Ward,131,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026
+c1c5b2bec500d1c9,"Rasheed, Naz",2026-05-07,Balsall Heath West Ward,464,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026
+88548ab380b51c77,"Webb, Michael Sidear",2026-05-07,Balsall Heath West Ward,142,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3200/balsall_heath_west_ward_election_2026
+13f0ea0e1f10a347,"Brewer, Kerry",2026-05-07,Bartley Green Ward,1432,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+be831d15427dd555,"Kelly-Trow, Sheila Ann",2026-05-07,Bartley Green Ward,269,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+9eaf33340104d356,"Lines, Bruce John",2026-05-07,Bartley Green Ward,1403,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+9164c316750b9285,"Preston, Paul Simon",2026-05-07,Bartley Green Ward,846,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+a9ee15caa7e1c295,"Preston, Rachel Marie",2026-05-07,Bartley Green Ward,836,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+55aaa2dd3f3fa95e,"Singh, Rajbir",2026-05-07,Bartley Green Ward,1615,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+60684d1bc5ba4e76,"Steele, Chris",2026-05-07,Bartley Green Ward,1938,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+fa7ce9e2edcb393c,"Treharne Jones, Phillippa",2026-05-07,Bartley Green Ward,824,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+e685ef96e5c897d3,"Venables, Sean Lewis",2026-05-07,Bartley Green Ward,687,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+81f3375c37545874,"Wilkinson, Anthony",2026-05-07,Bartley Green Ward,171,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3201/bartley_green_ward_election_2026
+86f78a745c049476,"Aftab, Mudassir",2026-05-07,Billesley Ward,260,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+3bd4d3367923a074,"Beg, Raf",2026-05-07,Billesley Ward,199,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+a092048dd7bc8bb3,"Chishty, Sanjida",2026-05-07,Billesley Ward,552,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+27cfd88b74a253c1,"Felton, Clair",2026-05-07,Billesley Ward,1443,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+c0daf045f1c04a7c,"Garghan, Chris",2026-05-07,Billesley Ward,2702,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+11130a8e9ece3265,"Iroh, Katherine Elizabeth",2026-05-07,Billesley Ward,1064,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+349b28086d64ce36,"Khan, Sulliman",2026-05-07,Billesley Ward,484,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+0fd91fd36558310e,"McGarry, Margaret",2026-05-07,Billesley Ward,1408,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+68d443aaa40f1fa7,"Naeem, Sahibzada Abid",2026-05-07,Billesley Ward,167,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+d88f989bbb1d4e36,"Neal, Ian",2026-05-07,Billesley Ward,164,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+a03ab81915366f60,"Peacock, Joe",2026-05-07,Billesley Ward,2649,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+acc584024022a81c,"Roberts, Jess",2026-05-07,Billesley Ward,927,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3202/billesley_ward_election_2026
+63c955ba011fa87d,"Anton, Christopher",2026-05-07,Birchfield Ward,201,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026
+f28610e5b8b91f21,"Easy, Glenton",2026-05-07,Birchfield Ward,102,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026
+affe5e447c31ff0b,"Mahmood, Arshid",2026-05-07,Birchfield Ward,861,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026
+41b5392848b103f2,"Newton, Barry",2026-05-07,Birchfield Ward,122,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026
+3829cb9610097a0f,"Yaseen, Mohammed",2026-05-07,Birchfield Ward,790,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026
+dc9e8d5f87e010cf,"Yasir, Muhammad",2026-05-07,Birchfield Ward,411,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3203/birchfield_ward_election_2026
+b8484ad4875426ac,"Abedin, Mohammed Joynal",2026-05-07,Bordesley and Highgate Ward,173,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+fc7c2c9fa0487b33,"Ahmed, Hakil",2026-05-07,Bordesley and Highgate Ward,112,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+6e6b0c6de8b6d24b,"Fowles, Tyrone Reece",2026-05-07,Bordesley and Highgate Ward,564,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+4f8039f4354d0a85,"Idrees, Mohammed",2026-05-07,Bordesley and Highgate Ward,270,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+cf8a8b0935361378,"Kazi, Ali Akbar Shujja",2026-05-07,Bordesley and Highgate Ward,658,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+462606f455ea2663,"Moynihan, Gerry",2026-05-07,Bordesley and Highgate Ward,294,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+ac09c429af40341f,"Obad, Waleed",2026-05-07,Bordesley and Highgate Ward,192,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+cd4ae4298c88e1bf,"Slater, Alexander Ross Douglas",2026-05-07,Bordesley and Highgate Ward,201,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+f056fa934d6f02e1,"Tuki, Jamil",2026-05-07,Bordesley and Highgate Ward,165,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3204/bordesley_and_highgate_ward_election_2026
+cccba0a797a424c2,"Attiq, Mohammed",2026-05-07,Bordesley Green Ward,375,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026
+4124daabaa8c4f50,"Aziz, Raqeeb",2026-05-07,Bordesley Green Ward,628,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026
+8ddae320aaafebd5,"Ballard, Joe",2026-05-07,Bordesley Green Ward,315,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026
+f6ea13f8b3e94a75,"Burkey, Wajid",2026-05-07,Bordesley Green Ward,295,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026
+7e5f063e5ef305b5,"Hussain, Adnan",2026-05-07,Bordesley Green Ward,773,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026
+1b17ce166ce0ba16,"Jeynes, Charles Robert",2026-05-07,Bordesley Green Ward,40,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026
+91eaeb8b3177414b,"Linden, Paul Gerald",2026-05-07,Bordesley Green Ward,86,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3205/bordesley_green_ward_election_2026
+eca947af4134fdc9,"Baston, Jane Louisa",2026-05-07,Bournbrook and Selly Park Ward,2584,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+f6bbeb56b93f5ad9,"Faulkner, Gary John",2026-05-07,Bournbrook and Selly Park Ward,319,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+3c7d82b55cb94dca,"Fowler, Corinne",2026-05-07,Bournbrook and Selly Park Ward,2473,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+fe2cfa8fd4347e87,"Johnson, Neil",2026-05-07,Bournbrook and Selly Park Ward,237,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+ca6eec15f1b8d38c,"Lees, Ben",2026-05-07,Bournbrook and Selly Park Ward,46,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+261b23a348daf30f,"McCarthy, Karen Teresa",2026-05-07,Bournbrook and Selly Park Ward,773,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+73d620411ac800c5,"Mullaney, Martin",2026-05-07,Bournbrook and Selly Park Ward,170,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+e66bc16ef1f55722,"Nela, Musa",2026-05-07,Bournbrook and Selly Park Ward,176,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+f6c356cee907c9bb,"Ross, Colin Andrew",2026-05-07,Bournbrook and Selly Park Ward,136,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+42cd476950bcd9da,"Scott, Jamie Christopher",2026-05-07,Bournbrook and Selly Park Ward,604,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+25fda0ce613f879e,"Vikal, Neetu",2026-05-07,Bournbrook and Selly Park Ward,238,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3206/bournbrook_and_selly_park_ward_election_2026
+18fd647570d6a5e2,"Ali, Muhammad",2026-05-07,Bournville and Cotteridge Ward,1559,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+bf5c10e7b0458f32,"Brennan, Nicky",2026-05-07,Bournville and Cotteridge Ward,1738,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+47aed0a7b21aa17d,"Dawkins, Nigel Douglas",2026-05-07,Bournville and Cotteridge Ward,943,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+f6db3f50a3d1b2a0,"Green, Roxanne",2026-05-07,Bournville and Cotteridge Ward,2062,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+074f074aaa949a65,"Grosvenor, Robert",2026-05-07,Bournville and Cotteridge Ward,1272,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+00b6b3c5e5997a14,"Hardie, Andrew David",2026-05-07,Bournville and Cotteridge Ward,937,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+819efff66ce735c9,"Ingram, Chloe Octavia Kay",2026-05-07,Bournville and Cotteridge Ward,698,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+da47199c6e756ba4,"Lacey, Chris",2026-05-07,Bournville and Cotteridge Ward,1369,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+26145382626305ff,"Radcliffe, David Stephen",2026-05-07,Bournville and Cotteridge Ward,792,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+7b327ca961e1aa5a,"Vazaios, Ilias",2026-05-07,Bournville and Cotteridge Ward,526,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+e74445597fe88f59,"Winter, Richard George",2026-05-07,Bournville and Cotteridge Ward,1735,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3207/bournville_and_cotteridge_ward_election_2026
+b14f426ce3d5e754,"Allen, Leeford Claude Beresford",2026-05-07,Brandwood and Kings Heath Ward,451,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+636cc9991cb1fe83,"Babington, Jamie",2026-05-07,Brandwood and Kings Heath Ward,332,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+92821d793e3e1885,"Cox, Emily",2026-05-07,Brandwood and Kings Heath Ward,837,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+63425be4475fbb39,"Hudson, Mark Andrew",2026-05-07,Brandwood and Kings Heath Ward,334,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+24a8e7c7f115c65f,"Lockley, Ben",2026-05-07,Brandwood and Kings Heath Ward,1702,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+389bbca7ee5d1461,"Malik, Muhammad Saleem",2026-05-07,Brandwood and Kings Heath Ward,87,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+ecef7ce3543f30bd,"Nwofor, Tochi",2026-05-07,Brandwood and Kings Heath Ward,803,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+44f500176c7e066a,"Phillip, Jordan Oliver",2026-05-07,Brandwood and Kings Heath Ward,2940,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+6a43c8c98485d800,"Sheikh, Hamzah Fahd",2026-05-07,Brandwood and Kings Heath Ward,2718,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+4dd69b60f0f22d86,"Trickett, Lisa",2026-05-07,Brandwood and Kings Heath Ward,1826,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+bfc3a5ed9009614f,"Wagg, Cat",2026-05-07,Brandwood and Kings Heath Ward,599,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+c70016f19cf7b9db,"Williams, Stephen John",2026-05-07,Brandwood and Kings Heath Ward,946,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3208/brandwood_and_kings_heath_ward_election_2026
+148fc4f142041eca,"Annett, Jack",2026-05-07,Bromford and Hodge Hill Ward,175,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+ba86e7da66c96611,"Cheshire, Robert William",2026-05-07,Bromford and Hodge Hill Ward,223,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+07492f1ffb655eb8,"Donaldson, Diane",2026-05-07,Bromford and Hodge Hill Ward,1283,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+387af5e655977f77,"Hussain, Arshad",2026-05-07,Bromford and Hodge Hill Ward,701,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+8254dda37125996a,"Hussain, Iftekhar",2026-05-07,Bromford and Hodge Hill Ward,772,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+999c22a26fca4b54,"Jonah, Zakarya",2026-05-07,Bromford and Hodge Hill Ward,751,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+48f953571612f2e0,"Karagiannopoulos, Andreas Nektarios",2026-05-07,Bromford and Hodge Hill Ward,816,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+cb0fe453b4e09d38,"Khan, Sardar",2026-05-07,Bromford and Hodge Hill Ward,794,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+1499a994aef862f4,"Mahmood, Majid",2026-05-07,Bromford and Hodge Hill Ward,1560,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+0d9a02cd8fdc1458,"McKears, Sylvia Jane",2026-05-07,Bromford and Hodge Hill Ward,683,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+aeb9c977d30f3e88,"Riley, Duncan Douglas",2026-05-07,Bromford and Hodge Hill Ward,872,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+cbf0a58675c68eaa,"Shah, Tasawar Hussain",2026-05-07,Bromford and Hodge Hill Ward,877,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3209/bromford_and_hodge_hill_ward_election_2026
+de9fc8f2a13f1f96,"Chapman, Roman",2026-05-07,Castle Vale Ward,107,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026
+d82ac6482e167c5e,"Copeland, Ross",2026-05-07,Castle Vale Ward,855,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026
+5b5d6d4942c16c58,"Goodwin, Ray",2026-05-07,Castle Vale Ward,899,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026
+48880f630ea1eafc,"Okole, Margaret",2026-05-07,Castle Vale Ward,124,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026
+7e299fb3f4495da2,"Scrivens, Louise Arabella",2026-05-07,Castle Vale Ward,11,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026
+8076bc9079a3ee63,"Sword, Trevor",2026-05-07,Castle Vale Ward,30,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3210/castle_vale_ward_election_2026
+3f9db06325343796,"Brown, Stephen",2026-05-07,Druids Heath and Monyhull Ward,140,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026
+6e4061172e4f39a2,"Clement, Gavin",2026-05-07,Druids Heath and Monyhull Ward,54,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026
+6db638db45d581b3,"Ishtiaq, Muhammad",2026-05-07,Druids Heath and Monyhull Ward,119,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026
+fc99cb250dd407fa,"Pritchard, Julien",2026-05-07,Druids Heath and Monyhull Ward,1907,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026
+8bdab528de3421fe,"Singh, Aman",2026-05-07,Druids Heath and Monyhull Ward,734,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026
+f7916f3ececf3e36,"Siva, Giri",2026-05-07,Druids Heath and Monyhull Ward,14,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3211/druids_heath_and_monyhull_ward_election_2026
+b7ebe452b79f2f29,"Alden, Deirdre Caroline",2026-05-07,Edgbaston Ward,1847,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+c277147fed168259,"Bennett, Matt",2026-05-07,Edgbaston Ward,1761,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+2e24775bc275e400,"Gibbons, Simon",2026-05-07,Edgbaston Ward,470,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+d7ef3621d89a55f2,"Hogg, Nathan James",2026-05-07,Edgbaston Ward,1132,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+5e9dbc5ab91598b9,"Prosser, Oscar George",2026-05-07,Edgbaston Ward,1081,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+31c3c66b5a58ea74,"Russell, Radley",2026-05-07,Edgbaston Ward,294,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+77cd15d85f0b26d2,"Sanghera, Mandy",2026-05-07,Edgbaston Ward,674,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+6c2063f086fc418c,"Shergill, Onkar",2026-05-07,Edgbaston Ward,561,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+e75fab9d22d4dc73,"Vidhani, Madhu",2026-05-07,Edgbaston Ward,366,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+a76218957dae40a1,"Ward, Mike",2026-05-07,Edgbaston Ward,251,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3212/edgbaston_ward_election_2026
+ad2f9b6d40d62a48,"Alden, Robert James Cambray",2026-05-07,Erdington Ward,2424,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+03b96400dab36d9a,"Choudhury, Shefa",2026-05-07,Erdington Ward,174,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+2d0655910ac19b3d,"Christoffersen, Mette",2026-05-07,Erdington Ward,883,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+7c5fd21bea3e1961,"Karra-Webb, Alex",2026-05-07,Erdington Ward,906,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+11f5134ee220c4cd,"May, Richard Haydn",2026-05-07,Erdington Ward,187,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+99b770979fac27b5,"Moore, Gareth Raymond",2026-05-07,Erdington Ward,1996,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+4e3e7afbeeb780ef,"Morris, Kenneth Oliver",2026-05-07,Erdington Ward,1088,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+b8e42bd21c6330ad,"Scrivens, Paul Jonathan",2026-05-07,Erdington Ward,69,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+eced9e30e2ab5c13,"Taranssari, Ali",2026-05-07,Erdington Ward,769,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+68485d25d09a8963,"Uddin, Mahtab",2026-05-07,Erdington Ward,952,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+144bf7491c885553,"Walden, Lauren",2026-05-07,Erdington Ward,1019,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+bf397eaca05b2bf2,"Ward, Corinthia",2026-05-07,Erdington Ward,64,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3213/erdington_ward_election_2026
+dbafd4573ed80591,"Beck, Peter",2026-05-07,Frankley Great Park Ward,407,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026
+6134c62b9e563de1,"Guttridge, Gemma Louise",2026-05-07,Frankley Great Park Ward,1192,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026
+329098e30510567a,"Lloyd, Peter",2026-05-07,Frankley Great Park Ward,131,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026
+37a897fcecf62d99,"Morrall, Simon",2026-05-07,Frankley Great Park Ward,691,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026
+5c19bce372dbdab5,"Saad, Mohamed",2026-05-07,Frankley Great Park Ward,326,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026
+26348d0437b30761,"Storer, Tilton Tobias",2026-05-07,Frankley Great Park Ward,317,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3214/frankley_great_park_ward_election_2026
+ad947792706fd068,"Busuttil, Carla",2026-05-07,Garretts Green Ward,310,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026
+ee8313db14c4637e,"Hall, Daphne Claire",2026-05-07,Garretts Green Ward,109,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026
+61cda3cd81c32b73,"Higgins, Peter",2026-05-07,Garretts Green Ward,95,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026
+2b3ec853d7f8d6c9,"Miah, Saddak",2026-05-07,Garretts Green Ward,988,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026
+91520d1e3a5725b4,"O'Callaghan, Benjamin",2026-05-07,Garretts Green Ward,149,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026
+772c182d49821100,"Webster, Carl Richard",2026-05-07,Garretts Green Ward,864,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3215/garretts_green_ward_election_2026
+d0688e75161e7d93,"Ankrett, Jess",2026-05-07,Glebe Farm and Tile Cross Ward,1394,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+828f3ec20973105d,"Bridle, Marje",2026-05-07,Glebe Farm and Tile Cross Ward,1035,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+69b15dedd12495bb,"Charles, Gary",2026-05-07,Glebe Farm and Tile Cross Ward,654,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+e58baedc3ea586ca,"Cotton, John",2026-05-07,Glebe Farm and Tile Cross Ward,896,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+84c911387cb84b04,"Fikeis, Chris",2026-05-07,Glebe Farm and Tile Cross Ward,252,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+be637081631518d4,"Hooper, Gareth",2026-05-07,Glebe Farm and Tile Cross Ward,569,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+c0b0d57c44adce34,"Kayani, Shehryar",2026-05-07,Glebe Farm and Tile Cross Ward,1163,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+7ccfdaa543de8c82,"Khan, Javed",2026-05-07,Glebe Farm and Tile Cross Ward,139,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+9533497d8bef483d,"Kiani, Uzman",2026-05-07,Glebe Farm and Tile Cross Ward,103,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+a9192492460a9e88,"Mahmood, Faisal",2026-05-07,Glebe Farm and Tile Cross Ward,251,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+656b512a61b24089,"Robinson, Fergus David",2026-05-07,Glebe Farm and Tile Cross Ward,229,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+376fcada90b2f527,"Shafique, Amir",2026-05-07,Glebe Farm and Tile Cross Ward,1078,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+cb244c219b874b40,"Tank, Satnam",2026-05-07,Glebe Farm and Tile Cross Ward,1157,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3216/glebe_farm_and_tile_cross_ward_election_2026
+2506129e8eac6a56,"Akhtar, Wahid",2026-05-07,Gravelly Hill Ward,168,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026
+e7364e230b9bcda9,"Amin, Mohammed",2026-05-07,Gravelly Hill Ward,417,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026
+ef9e934ca555f6f5,"Brown, Mick",2026-05-07,Gravelly Hill Ward,620,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026
+c792acda1b6c492e,"Khan, Imran Ali",2026-05-07,Gravelly Hill Ward,360,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026
+9537d1094768c0ea,"Mackey, Julia Anne",2026-05-07,Gravelly Hill Ward,123,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026
+4f3de31d0d83a2b4,"Mehmood, Asif",2026-05-07,Gravelly Hill Ward,66,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026
+52f7e9709d5c3c7d,"Wilton, Maisie Lou Evelyn",2026-05-07,Gravelly Hill Ward,344,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3217/gravelly_hill_ward_election_2026
+2708117e78764bf1,"Ahmed, Akhlaq",2026-05-07,Hall Green North Ward,824,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+ea57e3acede5d6e7,"Arabi, Belal",2026-05-07,Hall Green North Ward,457,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+1b59cc197f11d5fe,"Bano, Shabina",2026-05-07,Hall Green North Ward,674,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+f13ddc35bbd6ed06,"Dukes-Hogan, Estelle",2026-05-07,Hall Green North Ward,630,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+ec79b1fa0cb268e6,"Holland, Jordan",2026-05-07,Hall Green North Ward,774,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+4320f14c803cf160,"Hussain, Fahad Ali",2026-05-07,Hall Green North Ward,309,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+00b96da865fdb778,"Iqbal, Malik Nasir",2026-05-07,Hall Green North Ward,802,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+79899af5c2789b2f,"Mattison, Kyra Nicole",2026-05-07,Hall Green North Ward,716,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+3241c2f05fb4d33b,"O'Hara, Harriet Rose",2026-05-07,Hall Green North Ward,1014,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+0b8ff90a6fccc881,"Qureshi, Mansoor",2026-05-07,Hall Green North Ward,2833,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+00d0d0ecc6918a42,"Salim, Haroon",2026-05-07,Hall Green North Ward,2429,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+363bb13877226285,"Suleman, Saima",2026-05-07,Hall Green North Ward,679,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3218/hall_green_north_ward_election_2026
+48fca75e39f1c493,"Ahmed, Shafaq",2026-05-07,Hall Green South Ward,326,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026
+f5d6c1bd310f7128,"Carpenter, Daniel Thomas",2026-05-07,Hall Green South Ward,638,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026
+717d1c5fc33e42d7,"Huxtable, Tim",2026-05-07,Hall Green South Ward,2117,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026
+8304e95307c906c4,"Lickiss, David Alan",2026-05-07,Hall Green South Ward,68,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026
+f7fd140c8c45ff90,"Shabir, Aminah",2026-05-07,Hall Green South Ward,163,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026
+34bdd78595c63a97,"Taylor, Stephen",2026-05-07,Hall Green South Ward,429,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3219/hall_green_south_ward_election_2026
+f3c16e89c0c8370c,"Bishop, Paul Andrew",2026-05-07,Handsworth Ward,53,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026
+7732ffa7f602d02f,"Brittain, Curtis James",2026-05-07,Handsworth Ward,110,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026
+6e3655122fb65601,"Dakunivosa, Mosese",2026-05-07,Handsworth Ward,443,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026
+1c1e2a68ada30628,"Freshwater, Ed",2026-05-07,Handsworth Ward,958,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026
+4b2438d9be639d64,"Lal, Chaman",2026-05-07,Handsworth Ward,288,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026
+10a4f7ce712646b8,"Mohamed, Abdulaziz",2026-05-07,Handsworth Ward,273,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026
+f9f37d1ee9aa9564,"Rahman, Enam",2026-05-07,Handsworth Ward,231,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3220/handsworth_ward_election_2026
+1b8c48518d432c46,"Atholi, Junior",2026-05-07,Handsworth Wood Ward,75,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+9b384bb212575f9a,"Banger, Lalit Kumar",2026-05-07,Handsworth Wood Ward,452,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+e1b4e6ba4d2bda23,"Brown, Neil James",2026-05-07,Handsworth Wood Ward,550,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+ce23c2220b69bc9a,"Chumber, Ravinder Singh",2026-05-07,Handsworth Wood Ward,549,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+d11c4b5d5571815f,"Clark, Michael George",2026-05-07,Handsworth Wood Ward,510,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+20d59cb7e10788f8,"Hafeez, Junaid",2026-05-07,Handsworth Wood Ward,703,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+2ef8264db2643044,"Hallam, Stephen Michael",2026-05-07,Handsworth Wood Ward,194,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+00ac13811fde9f0f,"Khan, Umar Hayat",2026-05-07,Handsworth Wood Ward,577,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+ffa612697c24281a,"Kooner, Narinder Kaur",2026-05-07,Handsworth Wood Ward,1858,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+7034c993242527d3,"Kular, Randeep Kaur",2026-05-07,Handsworth Wood Ward,1582,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+be7ff3f55da6c372,"Sheahan, Peter John",2026-05-07,Handsworth Wood Ward,673,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+b410c3e536f00773,"Surti, Devia",2026-05-07,Handsworth Wood Ward,432,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+d2e252db271e45c3,"Uddin, Sam",2026-05-07,Handsworth Wood Ward,744,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+1c67f8843c614c99,"Watts, Gerald",2026-05-07,Handsworth Wood Ward,172,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3221/handsworth_wood_ward_election_2026
+9274dec1a7b5a72b,"Bertram, Christopher John",2026-05-07,Harborne Ward,396,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+90de8e1c56fede82,"Brooks, Martin John",2026-05-07,Harborne Ward,1723,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+28f4dac2be38998f,"Burgess, James Victor",2026-05-07,Harborne Ward,347,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+fbb89fa12d6d76c2,"Carmody, Kevin James",2026-05-07,Harborne Ward,1463,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+09ed10e0ada58216,"Cross, James Peter",2026-05-07,Harborne Ward,846,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+f62ca21352baaf04,"Goodwin, Ben",2026-05-07,Harborne Ward,1289,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+fe737c79f162af66,"Khan, Hasnain Qamar Rashid Bhatti",2026-05-07,Harborne Ward,1228,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+b3cd5d285aa7e01a,"Marwick, Sarah",2026-05-07,Harborne Ward,407,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+d10f6684645e234a,"Moore, Richard William",2026-05-07,Harborne Ward,1344,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+75016dc6c6f1eb04,"Rasenberg, Hugo George",2026-05-07,Harborne Ward,1411,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+5bc94adf2b35ba2c,"Shahzada, Amaar",2026-05-07,Harborne Ward,1012,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+c8a98f7b166bb589,"Sharma, Aniraj",2026-05-07,Harborne Ward,987,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+c96bc0bfa12ea94a,"Singh, Jyotsna",2026-05-07,Harborne Ward,902,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3222/harborne_ward_election_2026
+4ebc16d639ad6aa7,"Ali, Abid",2026-05-07,Heartlands Ward,180,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026
+b04d55b2044970d2,"Hussain, Sajid",2026-05-07,Heartlands Ward,224,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026
+e3c790f35064c479,"Islam, Md Ohidul",2026-05-07,Heartlands Ward,56,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026
+10ab77da98e7cf18,"Mazhar, Danny",2026-05-07,Heartlands Ward,625,False,Birmingham Community Independents,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026
+8246353b15b09f46,"Raman, Sathish Kumar",2026-05-07,Heartlands Ward,154,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026
+657e47180ee01ffe,"Seharai, Mateen",2026-05-07,Heartlands Ward,359,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026
+a51ec52c438d3bd7,"Shah, Shafique",2026-05-07,Heartlands Ward,1023,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3223/heartlands_ward_election_2026
+43fa06ef8f4a26ef,"Bowen, Iain David",2026-05-07,Highter’s Heath Ward,56,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3224/highters_heath_ward_election_2026
+29cfdf63c05ec422,"Higgs, Adam Andrew",2026-05-07,Highter’s Heath Ward,1342,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3224/highters_heath_ward_election_2026
+db2d880504122dd6,"Samuels, Joe",2026-05-07,Highter’s Heath Ward,269,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3224/highters_heath_ward_election_2026
+812e78af540c445f,"Shemmans, Joanne",2026-05-07,Highter’s Heath Ward,419,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3224/highters_heath_ward_election_2026
+de10070cdc22f6c6,"West, Jason",2026-05-07,Highter’s Heath Ward,877,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3224/highters_heath_ward_election_2026
+ca2c480ae88c0c6c,"Atholi, Senior",2026-05-07,Holyhead Ward,26,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+3b71e91559cc4fb8,"Clarke, Martin",2026-05-07,Holyhead Ward,132,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+406db7787e30aecd,"Clough, Nigel",2026-05-07,Holyhead Ward,334,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+10631d6756d0f022,"Dainty, Mark Richard",2026-05-07,Holyhead Ward,93,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+20ce7dc2c3cfc74a,"Hamilton, Keshia",2026-05-07,Holyhead Ward,751,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+816f9a376743932a,"Jaddoo, Alexander Samuel Vivian",2026-05-07,Holyhead Ward,50,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+b9f349922bf6ffc7,"Shergill, Rinkal",2026-05-07,Holyhead Ward,775,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+1e6768d5c25794fc,"Tanveer, Faizan",2026-05-07,Holyhead Ward,64,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3225/holyhead_ward_election_2026
+1a0d414c26990ae6,"Corrigan, Carmel Gertrude",2026-05-07,King’s Norton North Ward,786,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3226/kings_norton_north_ward_election_2026
+ddb1e47c79b26f29,"Hemming, Alexander",2026-05-07,King’s Norton North Ward,138,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3226/kings_norton_north_ward_election_2026
+745328b9dde89722,"Molloy-Brookes, Daniel Patrick",2026-05-07,King’s Norton North Ward,755,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3226/kings_norton_north_ward_election_2026
+f297e6e1c5c192bd,"Rooney, Joe",2026-05-07,King’s Norton North Ward,452,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3226/kings_norton_north_ward_election_2026
+2f5003ccb9cc1d4d,"Smith, Martin Derek",2026-05-07,King’s Norton North Ward,1082,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3226/kings_norton_north_ward_election_2026
+a84cf79ebbea28c0,"Brown, Joel Samuel",2026-05-07,King’s Norton South Ward,166,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3227/kings_norton_south_ward_election_2026
+47d6d1fff4c3fe1f,"Grant, Robert Andrew",2026-05-07,King’s Norton South Ward,1725,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3227/kings_norton_south_ward_election_2026
+e5dd761782daf99c,"Kennedy, Tony",2026-05-07,King’s Norton South Ward,172,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3227/kings_norton_south_ward_election_2026
+6f308e6f2218a300,"Malec, Agata Joanna",2026-05-07,King’s Norton South Ward,762,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3227/kings_norton_south_ward_election_2026
+318cd197f2e136ae,"Sturt-Joy, Michael",2026-05-07,King’s Norton South Ward,36,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3227/kings_norton_south_ward_election_2026
+b220315a9797c7cc,"Chandler, James Andrew Ayodele",2026-05-07,Kingstanding Ward,134,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+3c27554558aa51fd,"Hughes, Des",2026-05-07,Kingstanding Ward,120,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+2483dec1a1aa831a,"Jaddoo, Desmond Gustavus",2026-05-07,Kingstanding Ward,183,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+4fd91557f6e1bdbf,"Lambert, John Edward",2026-05-07,Kingstanding Ward,1898,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+b432de0b10eb844d,"Lee, Chris",2026-05-07,Kingstanding Ward,606,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+c779528edb212a5e,"Lilly, Paul",2026-05-07,Kingstanding Ward,761,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+2cb871d066b6e360,"Mehmood, Asad",2026-05-07,Kingstanding Ward,162,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+1d2670d61bb99afb,"Orme, Jerry",2026-05-07,Kingstanding Ward,504,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+967f1f7f7fbb022b,"Parkin, Jex",2026-05-07,Kingstanding Ward,1771,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+64ff77abd24ac021,"Richards, Alex Lawrence",2026-05-07,Kingstanding Ward,1059,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+f9eebaf1e16ee392,"Ward, Anita",2026-05-07,Kingstanding Ward,681,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+f1b87d9045e89f06,"Welch, Clifton Frederick",2026-05-07,Kingstanding Ward,967,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3228/kingstanding_ward_election_2026
+f3ae908facfec5a2,"Benton, Sally",2026-05-07,Ladywood Ward,1122,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+6f4654f2ebef16b8,"Cotton, Jade Marie",2026-05-07,Ladywood Ward,521,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+0fce6f0a41accd17,"Cressman, Gary Edwin",2026-05-07,Ladywood Ward,213,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+f39f36b1092235d5,"Dargue, Lee",2026-05-07,Ladywood Ward,433,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+ce5d54ad8cf77413,"Dosanjh, Satvir",2026-05-07,Ladywood Ward,928,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+f37d73a58890023e,"Harper-Nunes, Siobhan Bridget",2026-05-07,Ladywood Ward,1552,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+361df6e17a1351f4,"Humphreys, Raheem",2026-05-07,Ladywood Ward,1382,True,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+a282660d988749a9,"Maragh, Deborah Moria",2026-05-07,Ladywood Ward,189,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+da6429d19f03352d,"Noor, Zoobia",2026-05-07,Ladywood Ward,297,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+9f7a2b63c7e2296a,"Pandey, Abhinav Priyadarshi",2026-05-07,Ladywood Ward,466,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+9723aa36ddcce350,"Smith, Abigail Margaret",2026-05-07,Ladywood Ward,436,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+e70898d0c4dd7076,"Yip, Cindy",2026-05-07,Ladywood Ward,342,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3229/ladywood_ward_election_2026
+904f335e19791935,"Asonibare, Francine",2026-05-07,Longbridge and West Heath Ward,256,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+504f0fac4044ead3,"Brett Young, Tony",2026-05-07,Longbridge and West Heath Ward,256,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+c350b6c176dda5d3,"Dixon, Jack",2026-05-07,Longbridge and West Heath Ward,1769,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+a71f489e1a82c7cf,"Jones, Hannah",2026-05-07,Longbridge and West Heath Ward,958,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+9acfa073d72d51a3,"Latchford, Charlie",2026-05-07,Longbridge and West Heath Ward,2325,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+15024987064b5eb7,"Lloyd, Matthew Josef",2026-05-07,Longbridge and West Heath Ward,674,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+64d9f2e947616f89,"Neville, Matthew John",2026-05-07,Longbridge and West Heath Ward,794,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+ae6b8bdea79f4eb0,"Sanusi, Femi",2026-05-07,Longbridge and West Heath Ward,581,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+1418702d9ac93f5f,"Storer, Ron",2026-05-07,Longbridge and West Heath Ward,1700,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+7d41eac20306a99c,"Ward, Anthony Leslie",2026-05-07,Longbridge and West Heath Ward,2168,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3230/longbridge_and_west_heath_ward_election_2026
+ef46fa0c88d82bf8,"Costa, Rafael",2026-05-07,Lozells Ward,184,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+32326dabeadc94c3,"Din, Qiam Ud",2026-05-07,Lozells Ward,229,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+fa606d16f2377415,"Hinton, Peter Charles John",2026-05-07,Lozells Ward,66,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+097a036bf56ee191,"Khan, Raja Asim",2026-05-07,Lozells Ward,551,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+4ae36a60cda0a89c,"King, Andy",2026-05-07,Lozells Ward,45,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+1c0a0cfe919f5e26,"Rayean, Nufayej",2026-05-07,Lozells Ward,124,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+c79e4e75f29dd504,"Sisman, Dean",2026-05-07,Lozells Ward,40,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+7a9f237a97c08b89,"Uddin, Taj",2026-05-07,Lozells Ward,1406,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+7826f4715b413306,"Zaffar, Samarah",2026-05-07,Lozells Ward,1014,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3231/lozells_ward_election_2026
+9b8f1188486534a6,"Ali, Ayyub",2026-05-07,Moseley Ward,1718,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+96b02291380edf7a,"Ashton, Oliver",2026-05-07,Moseley Ward,1785,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+abcff358eeef4ba7,"Bentley, Joshua",2026-05-07,Moseley Ward,515,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+fc50d2970a9d3a61,"Cuthel, Cheryl Ann",2026-05-07,Moseley Ward,484,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+cc4220716763e546,"Goby, Margaret",2026-05-07,Moseley Ward,291,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+20644bcf45bad327,"Knowles, Izzy",2026-05-07,Moseley Ward,3724,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+aa6d124e0e5eabbf,"Mabhena, Gwaza",2026-05-07,Moseley Ward,823,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+c38769881d34a68c,"Mills, Philip",2026-05-07,Moseley Ward,2139,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+2861cf145f82fad6,"Pihlaja, Stephen",2026-05-07,Moseley Ward,1020,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+3b35b1d3f7300001,"Qazi, Nayaz",2026-05-07,Moseley Ward,239,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+9dc1689fa3e7ebfb,"Shah, Mukhtarim",2026-05-07,Moseley Ward,189,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3232/moseley_ward_election_2026
+c9adc81ed422d95a,"Ahmed, Mansuur",2026-05-07,Nechells Ward,977,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026
+02fbf72f988c3c9c,"Elizabeth, Sophie Juda",2026-05-07,Nechells Ward,212,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026
+880d37b15bc6f998,"Farah, Guled",2026-05-07,Nechells Ward,81,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026
+100b8db20d8a411e,"O'Donovan, Conor",2026-05-07,Nechells Ward,12,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026
+1927253b973f9ae7,"Reka, Marcelo",2026-05-07,Nechells Ward,541,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026
+d066ea8d35787816,"Sufian, Md Abu",2026-05-07,Nechells Ward,287,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026
+1a25579f9335f01c,"Warmington, Devinchi",2026-05-07,Nechells Ward,67,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3233/nechells_ward_election_2026
+7a09e1ab2d3786cb,"Anderson, Sonya",2026-05-07,Newtown Ward,101,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026
+ccc3dc8834945b41,"Begum, Rasheda",2026-05-07,Newtown Ward,886,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026
+447087f0e34afd9f,"Hussain, Amjad",2026-05-07,Newtown Ward,205,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026
+d72bc18f1a0d37b9,"Khatun, Rashia",2026-05-07,Newtown Ward,370,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026
+800a170f02159db6,"Miah, Burhan",2026-05-07,Newtown Ward,105,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026
+a21aa3480d685c81,"Mohammed, Hannah",2026-05-07,Newtown Ward,348,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026
+675f8383aa8e3bf9,"Rowe, Keith Alexander",2026-05-07,Newtown Ward,107,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3234/newtown_ward_election_2026
+a264e8e6c363b0fe,"Anarfi, Kofi Agyei Tabiri",2026-05-07,North Edgbaston Ward,403,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+c939c97b7d5883a1,"Arifeen, Shamsul",2026-05-07,North Edgbaston Ward,374,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+55127c30f488be78,"Bernasconi, Marcus",2026-05-07,North Edgbaston Ward,1996,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+1a6785e8b6c3c8c0,"Dow, Alistair",2026-05-07,North Edgbaston Ward,213,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+a1394032c747e111,"Hassan, Hanooshi",2026-05-07,North Edgbaston Ward,1206,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+a7edcb4ecc3ebb44,"Jones, Neil",2026-05-07,North Edgbaston Ward,453,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+ea43239203179c34,"Khan, Amer",2026-05-07,North Edgbaston Ward,692,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+4a9f2d65363d0391,"Pattison, Joshua",2026-05-07,North Edgbaston Ward,418,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+3f3438202e641073,"Wallin, Ralph Anthony",2026-05-07,North Edgbaston Ward,995,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+da01d2e00ecc3b18,"Wright, Robert Ian",2026-05-07,North Edgbaston Ward,190,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+00251c6bbb86c0b7,"Xavier, Francois",2026-05-07,North Edgbaston Ward,397,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+7cc176c26d21710f,"Younas, Sarina",2026-05-07,North Edgbaston Ward,1662,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3235/north_edgbaston_ward_election_2026
+103de4ac77dc7974,"Hall, George",2026-05-07,Northfield Ward,1317,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3236/northfield_ward_election_2026
+99d8dd3598866ab7,"Knight, Graham",2026-05-07,Northfield Ward,702,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3236/northfield_ward_election_2026
+bf4aaa1fc8838a87,"Moles, Andy",2026-05-07,Northfield Ward,211,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3236/northfield_ward_election_2026
+8cb92775713d66d6,"Neumann, Alfie",2026-05-07,Northfield Ward,499,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3236/northfield_ward_election_2026
+a6e909b0e63dea2e,"Rai, Esther",2026-05-07,Northfield Ward,964,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3236/northfield_ward_election_2026
+3528cb6eb5ecc09a,"Barnett, Francis Liam",2026-05-07,Oscott Ward,703,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+29baa9687bb07aef,"Brookes, Jack Matthew",2026-05-07,Oscott Ward,126,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+3c030e8fcc9a9f2c,"Bunting, Joshua-John",2026-05-07,Oscott Ward,193,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+e4c2a6e94e2e99cd,"Douglas, Eleanor Louise",2026-05-07,Oscott Ward,670,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+fe50e6e3e32bfc6e,"Dring, Barbara",2026-05-07,Oscott Ward,210,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+9e8a98ce2ee94824,"Green, Graham Geoffrey",2026-05-07,Oscott Ward,1945,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+0218b10e59176f5c,"Hall, Alex",2026-05-07,Oscott Ward,1319,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+d53e8c83eee18743,"Khan, Sajida",2026-05-07,Oscott Ward,103,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+0dbb63b9d764bc7b,"Knight, Ian",2026-05-07,Oscott Ward,623,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+514a165d82a037d6,"McAuley, Martin James",2026-05-07,Oscott Ward,1803,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+5baf0875c88da81a,"Stevenson, Andrew",2026-05-07,Oscott Ward,515,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+60a48a21e1dd7edf,"Warnaby, Nora",2026-05-07,Oscott Ward,153,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+f98350728301fdbe,"Whitehouse, Charlotte",2026-05-07,Oscott Ward,1132,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3237/oscott_ward_election_2026
+c1f372a0dea815a1,"Allen, David",2026-05-07,Perry Barr Ward,1070,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+428c7706cea04410,"Coffey, Janet",2026-05-07,Perry Barr Ward,352,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+dabc5fb1f5b5cbe9,"Foster, Joe",2026-05-07,Perry Barr Ward,44,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+a9facd1497f955ae,"Hall, Elizabeth Ann",2026-05-07,Perry Barr Ward,310,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+323a2cfe9ba8e1d4,"Hammond, Jonathan",2026-05-07,Perry Barr Ward,732,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+ab9e7ac757ba0ee9,"Hinton, James",2026-05-07,Perry Barr Ward,1643,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+80539b959fc9f563,"Islam, Safiqul",2026-05-07,Perry Barr Ward,657,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+a56e04f8ab7c3696,"Jan, Morriam",2026-05-07,Perry Barr Ward,1720,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+dfb48b2064ee4e66,"Khuhro, Mehran",2026-05-07,Perry Barr Ward,596,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+4516a976dd0ad343,"Mohammed, Hayyan",2026-05-07,Perry Barr Ward,639,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+ee82f47884872783,"Porteous, Edward",2026-05-07,Perry Barr Ward,563,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+9db1938f1b42dbeb,"Shaikh, Zarine",2026-05-07,Perry Barr Ward,569,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+e52174cdff102f73,"Wood, Barry Paul",2026-05-07,Perry Barr Ward,848,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3238/perry_barr_ward_election_2026
+5f364b2d5031a011,"Bermingham, Jilly",2026-05-07,Perry Common Ward,487,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026
+42b43ba4a76b3981,"Boyle, Stephanie",2026-05-07,Perry Common Ward,327,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026
+5f1e2bea7f551aa0,"Ghulam, Ahmed",2026-05-07,Perry Common Ward,213,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026
+3d9958525080ae85,"Hill, Colin Edward",2026-05-07,Perry Common Ward,105,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026
+0069bdf3a1d15204,"Khan, Husham",2026-05-07,Perry Common Ward,261,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026
+c5bf5430bbbd7f3e,"Willetts, Sue",2026-05-07,Perry Common Ward,1020,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3239/perry_common_ward_election_2026
+13a624e0c17f7d91,"Allsop, Stephen Richard",2026-05-07,Pype Hayes Ward,157,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026
+ab1e4174bff5aa04,"Carter, Danny Brian",2026-05-07,Pype Hayes Ward,1073,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026
+c313fba3f9e6c39f,"Khuhro, Fayaz",2026-05-07,Pype Hayes Ward,513,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026
+39522e006ebe7b90,"Skidmore, Julian",2026-05-07,Pype Hayes Ward,309,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026
+fb055338247ed66c,"Tsouvallaris, Athena Christina",2026-05-07,Pype Hayes Ward,331,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026
+97a2b7ee26f752d3,"Ul-Haq, Umar",2026-05-07,Pype Hayes Ward,64,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3240/pype_hayes_ward_election_2026
+dc9bdee8a6a58bd5,"Anderson, Sue",2026-05-07,Quinton Ward,438,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+4d316d9ef5c9fe49,"Bolton, James Liam Pennington",2026-05-07,Quinton Ward,1066,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+1ee249262475261f,"Forsyth, Sam",2026-05-07,Quinton Ward,1736,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+3e12ef90adc9ba70,"Hardy, Gareth",2026-05-07,Quinton Ward,288,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+eff334b9651a0801,"Hussain, Sohail",2026-05-07,Quinton Ward,1005,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+d4a3c334facc4d5c,"Kaur, Narinder",2026-05-07,Quinton Ward,1202,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+38c1cc0e029ddc5b,"Khadabadi, Nikhil",2026-05-07,Quinton Ward,783,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+a9188c7ae4c16409,"Khan, Asif",2026-05-07,Quinton Ward,909,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+4f4af3d5095ba8c5,"Penakacherla, Nagu",2026-05-07,Quinton Ward,1416,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+ed199f894a938b68,"Robertson, James",2026-05-07,Quinton Ward,956,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+12a3c3af5a204661,"Vikal, Sanjay Kumar",2026-05-07,Quinton Ward,1305,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3241/quinton_ward_election_2026
+bbb593e45ff9a2fa,"Alton, Paul",2026-05-07,Rubery and Rednal Ward,119,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3242/rubery_and_rednal_ward_election_2026
+51caa964faf3ac50,"Delaney, Adrian Joseph",2026-05-07,Rubery and Rednal Ward,892,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3242/rubery_and_rednal_ward_election_2026
+4faa5ae4e89f7e9e,"Haynes, Steve",2026-05-07,Rubery and Rednal Ward,271,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3242/rubery_and_rednal_ward_election_2026
+0ff3de3f1cb9b649,"Wassell, Billy John",2026-05-07,Rubery and Rednal Ward,333,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3242/rubery_and_rednal_ward_election_2026
+b60454d8b000cef5,"Waters, Rebecca Michelle",2026-05-07,Rubery and Rednal Ward,943,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3242/rubery_and_rednal_ward_election_2026
+d71d8fa3ceeee4cb,"Ballard, Harry",2026-05-07,Shard End Ward,321,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026
+bf5db5206a393933,"Barber, Christopher Francis",2026-05-07,Shard End Ward,103,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026
+4e16e741e93d1e1e,"Briggs, Tony",2026-05-07,Shard End Ward,155,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026
+7c71586699ad9f0d,"Feeney, Alan James",2026-05-07,Shard End Ward,1262,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026
+812d1b87202cb19e,"Smyth, Ginge",2026-05-07,Shard End Ward,132,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026
+43cf005b16da0200,"Williams, Fiona",2026-05-07,Shard End Ward,488,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3243/shard_end_ward_election_2026
+67a9661ca9d3fb53,"Ackroyd, Mark Stewart",2026-05-07,Sheldon Ward,313,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+cb36fcae681894d7,"Ackroyd, Sara Jane",2026-05-07,Sheldon Ward,296,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+ce6c63af40970ae1,"Aslam, Sikander",2026-05-07,Sheldon Ward,228,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+33b1722ea6b0ef73,"Colling, Darren",2026-05-07,Sheldon Ward,2102,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+9d97847abd1d9fa7,"Conaghan, Rachel Ann",2026-05-07,Sheldon Ward,2006,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+6f5c5804799ee18e,"Dickson, Gerald David",2026-05-07,Sheldon Ward,414,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+03a670382c1cb300,"Gopal, Meenatchi",2026-05-07,Sheldon Ward,321,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+7eedbb9bac89af67,"Green, Colin Francis",2026-05-07,Sheldon Ward,1595,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+d885b148de3ddd18,"Khattak, Haroon Ahmed",2026-05-07,Sheldon Ward,235,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+df58673b9de5fa0e,"Meatcher, Mark Richard",2026-05-07,Sheldon Ward,492,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+62c25f0a7d42a2c8,"Smith, Melanie Jane",2026-05-07,Sheldon Ward,482,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+c0bee63ec5589ae2,"Tilsley, Paul Calvin",2026-05-07,Sheldon Ward,1719,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3244/sheldon_ward_election_2026
+c1d7eb896a1a9a2a,"Ahmed, Shanaz",2026-05-07,Small Heath Ward,1047,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+618f9b6199f67b85,"Al-Athwari, Ahmed",2026-05-07,Small Heath Ward,372,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+d6bf55685f82be56,"Ali, Amaan Hader",2026-05-07,Small Heath Ward,882,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+2022d58913056054,"Choudhury, Hayaan Bin Sultan",2026-05-07,Small Heath Ward,604,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+e36d5af613fd8064,"Cope, Sally Jane",2026-05-07,Small Heath Ward,135,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+5194e4edd256ea2a,"Dhalivaal, Makham Singh",2026-05-07,Small Heath Ward,59,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+bf82a4e0479c8703,"Hanif, Kash",2026-05-07,Small Heath Ward,551,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+cfe51d34b417bcfe,"Hussain, Altaf",2026-05-07,Small Heath Ward,254,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+63e16e5349e1b353,"Hussain, Shafaq",2026-05-07,Small Heath Ward,1274,False,Your Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+9223013f81e30e18,"Kabir, Obaydul",2026-05-07,Small Heath Ward,1047,False,Your Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+1aa65aa8cbde10a3,"Khan, Shaukat Ali",2026-05-07,Small Heath Ward,1545,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+0eb2be549b45728b,"Khanna, Amit",2026-05-07,Small Heath Ward,63,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+1f9a0fa1c4a1c94f,"Saeed, Mohammed",2026-05-07,Small Heath Ward,1305,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+95971b25aa10a63a,"Talukdar, Rehab",2026-05-07,Small Heath Ward,330,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+f2766a5200e1bd21,"Vocari, Amelia",2026-05-07,Small Heath Ward,95,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3245/small_heath_ward_election_2026
+5ee2868100ad2cd6,"Barker, Nigel Frederick",2026-05-07,Soho and Jewellery Quarter Ward,473,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+4de9e971926e7c23,"Bhatti, Abbas",2026-05-07,Soho and Jewellery Quarter Ward,1430,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+5cf90eac05f81ca5,"Brooks, Su",2026-05-07,Soho and Jewellery Quarter Ward,1548,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+adc2d9868a994601,"Cremer, Katt",2026-05-07,Soho and Jewellery Quarter Ward,437,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+f8ba95b044a59a2c,"Macefield, John Dell",2026-05-07,Soho and Jewellery Quarter Ward,1341,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+99ad8314ba40b65a,"Mendez, Violaine",2026-05-07,Soho and Jewellery Quarter Ward,239,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+68048fcc63e79dc3,"Panton, Patricia Beverley",2026-05-07,Soho and Jewellery Quarter Ward,322,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+4a68ccac62465e4a,"Perrott, James",2026-05-07,Soho and Jewellery Quarter Ward,220,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+dce2e594d3e58f3b,"Poshakwale, Sunil",2026-05-07,Soho and Jewellery Quarter Ward,268,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+4e6f218b985261d2,"Singh, Shuranjeet",2026-05-07,Soho and Jewellery Quarter Ward,1652,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+51b5dde276111176,"Walker-Rhoden, Nicola Kedeisha",2026-05-07,Soho and Jewellery Quarter Ward,389,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+9c02dfcd49effac0,"Yousaf, Omar",2026-05-07,Soho and Jewellery Quarter Ward,579,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3246/soho_and_jewellery_quarter_ward_election_2026
+2e5408e856bbf953,"Al-Haq, Aysan",2026-05-07,South Yardley Ward,769,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026
+8643d7fa51972fb4,"Choudhry, Zaker",2026-05-07,South Yardley Ward,1382,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026
+d0ca44ba6fa31be0,"Guest, Martin John",2026-05-07,South Yardley Ward,329,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026
+461604be47d1c5f9,"Khan, Anya",2026-05-07,South Yardley Ward,95,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026
+e7b04b102d543bb6,"Lyew, Gordon",2026-05-07,South Yardley Ward,192,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026
+5d53a95d91474222,"Zahir, Aheesha",2026-05-07,South Yardley Ward,53,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3247/south_yardley_ward_election_2026
+c0c44120c4a83c5e,"Abbas, Raihaan",2026-05-07,Sparkbrook and Balsall Heath East Ward,1622,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+34243f456ed7a1b3,"Abu, Nowshed",2026-05-07,Sparkbrook and Balsall Heath East Ward,643,False,Your Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+02c37b858f10bbed,"Ahmed, Saima",2026-05-07,Sparkbrook and Balsall Heath East Ward,1040,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+3913f7301f66bac8,"Evans, Jerry",2026-05-07,Sparkbrook and Balsall Heath East Ward,509,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+91b639043a4dcfe7,"Hanif, Khalid",2026-05-07,Sparkbrook and Balsall Heath East Ward,900,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+fc20e42ee0b404dd,"Hashmi, Shahid",2026-05-07,Sparkbrook and Balsall Heath East Ward,469,False,Your Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+2cefec0fea38708f,"Hindley, Jo",2026-05-07,Sparkbrook and Balsall Heath East Ward,1180,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+d16736db11823a69,"Hussain, Parwez",2026-05-07,Sparkbrook and Balsall Heath East Ward,345,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+0b9c10ab01f25680,"Khan, Jamil",2026-05-07,Sparkbrook and Balsall Heath East Ward,1945,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+8dfaed1b7bae20e5,"Peters, Nathaneal James",2026-05-07,Sparkbrook and Balsall Heath East Ward,105,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+4b77bae4fa194535,"Rind, Faizan",2026-05-07,Sparkbrook and Balsall Heath East Ward,1040,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+ad016e927e5d0f69,"Sant'Agostino, Gloria",2026-05-07,Sparkbrook and Balsall Heath East Ward,150,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+fde16021ffefdf7c,"Waldron, Nigel Paul",2026-05-07,Sparkbrook and Balsall Heath East Ward,64,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+714ebc87b72e9603,"Willetts, Ryan Kevin Louis",2026-05-07,Sparkbrook and Balsall Heath East Ward,120,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3248/sparkbrook_and_balsall_heath_east_ward_election_2026
+c71447d357e721ec,"Abdulhaq, Hiyam",2026-05-07,Sparkhill Ward,224,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+513a766a69d9f7a7,"Aftab, Safina Parveen",2026-05-07,Sparkhill Ward,1164,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+11f5604921015e37,"Bi, Bushra",2026-05-07,Sparkhill Ward,1480,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+6a1707784b8898cb,"Butt, Shahid",2026-05-07,Sparkhill Ward,453,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+5fd65531d753ffb3,"Choudhry, Tanveer",2026-05-07,Sparkhill Ward,867,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+63ded36ceb9e9fa7,"Hussain, Tassawar",2026-05-07,Sparkhill Ward,679,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+31399aabc3e63ed3,"Mahmood, Rashad",2026-05-07,Sparkhill Ward,1865,True,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+d3872c5b4794e4a4,"Mirza, Adam",2026-05-07,Sparkhill Ward,325,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+62815445776f177a,"Naseem, Sal",2026-05-07,Sparkhill Ward,975,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+f480bff7e17334a3,"O'Shea, Michael Lee",2026-05-07,Sparkhill Ward,129,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+107e8638bf0ed43b,"Smith, Andrew",2026-05-07,Sparkhill Ward,134,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+80257a4484337ffd,"Walcott, Degigha",2026-05-07,Sparkhill Ward,107,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+6d8f865c44a22589,"Walcott-Merry-Rose, Jennifer",2026-05-07,Sparkhill Ward,114,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3249/sparkhill_ward_election_2026
+8e4ba3e35e608b8d,"Banting, Philip Andrew",2026-05-07,Stirchley Ward,157,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3250/stirchley_ward_election_2026
+035edc29da4ef0c0,"Bishop, Ian William Derek",2026-05-07,Stirchley Ward,600,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3250/stirchley_ward_election_2026
+5d72e9bcadb1221d,"Dooley, James William Edward",2026-05-07,Stirchley Ward,193,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3250/stirchley_ward_election_2026
+4cb371590ab6fc6d,"Hawwash, Kamel",2026-05-07,Stirchley Ward,1444,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3250/stirchley_ward_election_2026
+7dd884c1540296fa,"Locke, Mary",2026-05-07,Stirchley Ward,1274,False,Labour and Co-operative Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3250/stirchley_ward_election_2026
+ad11757d8f81b181,"Butt, Manni",2026-05-07,Stockland Green Ward,1023,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+97a9d786fa3e152a,"Compton, Gareth Francis Thomas",2026-05-07,Stockland Green Ward,334,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+22f0ee8d5f4e4b18,"Douglas, Derek",2026-05-07,Stockland Green Ward,1022,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+c42b8413b2fc4a05,"Enahoro, Steven",2026-05-07,Stockland Green Ward,185,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+8f4cacea703b6e29,"Hemus, Richard James",2026-05-07,Stockland Green Ward,155,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+b84732bf5092bfe1,"Hussain, Shabrana",2026-05-07,Stockland Green Ward,945,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+f2dda3c1cf6249ff,"Jones, Jane Esther",2026-05-07,Stockland Green Ward,906,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+d7d51a49cd7b8785,"Khan, Amar",2026-05-07,Stockland Green Ward,1226,True,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+cff8a7b0e023fbf0,"Murphy, Stella",2026-05-07,Stockland Green Ward,337,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+efa5a00c13839be7,"Perryman, Pete",2026-05-07,Stockland Green Ward,989,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+84a6de8dacda245d,"Richards, Sam",2026-05-07,Stockland Green Ward,202,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+9c5264c7b0ad353d,"Roberts, Bryn Lee",2026-05-07,Stockland Green Ward,728,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+7fb248315581d7b3,"Webster, Alastair David",2026-05-07,Stockland Green Ward,556,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+8a66678054ec316b,"Woodley, Ted",2026-05-07,Stockland Green Ward,49,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3251/stockland_green_ward_election_2026
+cd423579a280ac58,"Dewsbery, Jan",2026-05-07,Sutton Four Oaks Ward,260,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3252/sutton_four_oaks_ward_election_2026
+acf35abb3f8b4ef0,"Graham, Alex",2026-05-07,Sutton Four Oaks Ward,325,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3252/sutton_four_oaks_ward_election_2026
+3dc0cdc107a37b65,"Kaur, Kay",2026-05-07,Sutton Four Oaks Ward,827,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3252/sutton_four_oaks_ward_election_2026
+762d07e25859c2c1,"Shamji, Raaj",2026-05-07,Sutton Four Oaks Ward,2193,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3252/sutton_four_oaks_ward_election_2026
+9cd3a54607e87a06,"Willett, David Michael",2026-05-07,Sutton Four Oaks Ward,166,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3252/sutton_four_oaks_ward_election_2026
+679fdca1f97680df,"Frater, Kerry",2026-05-07,Sutton Mere Green Ward,406,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3253/sutton_mere_green_ward_election_2026
+df118dd1a80d451d,"Jenkins, Meirion",2026-05-07,Sutton Mere Green Ward,1809,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3253/sutton_mere_green_ward_election_2026
+98193bd0ead7f4cb,"Marriott, Colin Leslie Fredric",2026-05-07,Sutton Mere Green Ward,410,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3253/sutton_mere_green_ward_election_2026
+68d5ae61290e277c,"McDonald, Simon",2026-05-07,Sutton Mere Green Ward,238,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3253/sutton_mere_green_ward_election_2026
+35b6d50a01b0392c,"Myers, Sarah Elizabeth",2026-05-07,Sutton Mere Green Ward,1068,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3253/sutton_mere_green_ward_election_2026
+5bfc73a591c441b9,"Godwin, Benjamin",2026-05-07,Sutton Reddicap Ward,136,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3254/sutton_reddicap_ward_election_2026
+dcdbefc9d8c9453d,"Kelly, James",2026-05-07,Sutton Reddicap Ward,798,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3254/sutton_reddicap_ward_election_2026
+ef6a33dce497414b,"Lane, Jane",2026-05-07,Sutton Reddicap Ward,231,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3254/sutton_reddicap_ward_election_2026
+1dfaa675ccafe676,"Painter, Richard",2026-05-07,Sutton Reddicap Ward,279,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3254/sutton_reddicap_ward_election_2026
+c50cab144e0ae970,"Parkin, Richard Frederick Jex",2026-05-07,Sutton Reddicap Ward,1618,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3254/sutton_reddicap_ward_election_2026
+3a48081de295bc2e,"Barley, Roger",2026-05-07,Sutton Roughley Ward,446,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3255/sutton_roughley_ward_election_2026
+0be2b4efe91b0242,"Cotterill, Timothy James",2026-05-07,Sutton Roughley Ward,222,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3255/sutton_roughley_ward_election_2026
+90263062f4041c72,"Hunt, Michael",2026-05-07,Sutton Roughley Ward,1361,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3255/sutton_roughley_ward_election_2026
+5d19d98f6a3dbeda,"Parmar, Harry",2026-05-07,Sutton Roughley Ward,1657,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3255/sutton_roughley_ward_election_2026
+02933c75ff7b2cd2,"Passingham, Esther Caroline",2026-05-07,Sutton Roughley Ward,418,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3255/sutton_roughley_ward_election_2026
+f7be5491f25dc8fc,"Auton, Ben",2026-05-07,Sutton Trinity Ward,1102,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3256/sutton_trinity_ward_election_2026
+320d200791b6e72e,"Blenkinsop, Joe",2026-05-07,Sutton Trinity Ward,291,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3256/sutton_trinity_ward_election_2026
+907d402b0ba0743d,"Gardiner, Paul Maxwell",2026-05-07,Sutton Trinity Ward,856,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3256/sutton_trinity_ward_election_2026
+e143a358bd7dbbcb,"Pears, David Christopher",2026-05-07,Sutton Trinity Ward,1357,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3256/sutton_trinity_ward_election_2026
+5c120813f832c02f,"Wilber, Regine",2026-05-07,Sutton Trinity Ward,106,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3256/sutton_trinity_ward_election_2026
+bb75b2e967eb55eb,"Cooper, John",2026-05-07,Sutton Vesey Ward,2414,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+4f606d303fe47f18,"Fieldhouse, Charlotte Julia",2026-05-07,Sutton Vesey Ward,1753,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+d9f870775886f3e9,"Hall, Gary",2026-05-07,Sutton Vesey Ward,1974,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+cb8e5c7b101b2272,"Holden, Kirsty",2026-05-07,Sutton Vesey Ward,1945,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+6e4c2440ccb5d7e8,"Morgner, Liron Alethea Thomas",2026-05-07,Sutton Vesey Ward,756,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+41cb41cc77d24f97,"Pawson, Anja",2026-05-07,Sutton Vesey Ward,2394,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+7fa44f64bf8018b5,"Pocock, Rob",2026-05-07,Sutton Vesey Ward,2224,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+93d58d1f1c04af3b,"Stephens, Ross Douglas",2026-05-07,Sutton Vesey Ward,751,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+e9ed5bf8ab2d2897,"Wilber, Steven",2026-05-07,Sutton Vesey Ward,201,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+99cc987eac634fd0,"Wilkinson, Jenny",2026-05-07,Sutton Vesey Ward,272,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3257/sutton_vesey_ward_election_2026
+922ea744268dabb3,"Cooke, David",2026-05-07,Sutton Walmley and Minworth Ward,335,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+4a73bd73f6a2e74f,"Haycock, Adam",2026-05-07,Sutton Walmley and Minworth Ward,532,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+701ccf0b9b312ae9,"Holton, Claire",2026-05-07,Sutton Walmley and Minworth Ward,2175,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+bd86604cf6cfae01,"Ibrahim, Ehsan",2026-05-07,Sutton Walmley and Minworth Ward,362,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+6ec3587cfa898ff6,"Lewis, Mark Andrew",2026-05-07,Sutton Walmley and Minworth Ward,245,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+e384769d261a5d26,"Perks, John",2026-05-07,Sutton Walmley and Minworth Ward,2540,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+c21669403f2c1c43,"Puri, Manish Kumar",2026-05-07,Sutton Walmley and Minworth Ward,407,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+dc669a1f278b4496,"Spargo, Jacqueline Patricia",2026-05-07,Sutton Walmley and Minworth Ward,533,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+268ca0944644ac04,"White, James Edward",2026-05-07,Sutton Walmley and Minworth Ward,1981,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+35e815714c41dc87,"Wood, Ken",2026-05-07,Sutton Walmley and Minworth Ward,2246,True,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3258/sutton_walmley_and_minworth_ward_election_2026
+59f432e3f1fe3d9b,"Challenor, Zoe Rachel",2026-05-07,Sutton Wylde Green Ward,452,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3259/sutton_wylde_green_ward_election_2026
+37ac58c2f9e8c7ba,"Chapman, Jon",2026-05-07,Sutton Wylde Green Ward,771,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3259/sutton_wylde_green_ward_election_2026
+a11620550e05120b,"Irfan, Adeen",2026-05-07,Sutton Wylde Green Ward,397,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3259/sutton_wylde_green_ward_election_2026
+fabb10ba381ea5c8,"Spencer, Malcolm",2026-05-07,Sutton Wylde Green Ward,181,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3259/sutton_wylde_green_ward_election_2026
+3cf13ca2b821e0f7,"Yip, Alex",2026-05-07,Sutton Wylde Green Ward,1981,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3259/sutton_wylde_green_ward_election_2026
+639ed5c3352010e5,"Garrett, Ian Anthony George",2026-05-07,Tyseley and Hay Mills Ward,463,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026
+eb7bf00423a35e09,"Howard, John Martin",2026-05-07,Tyseley and Hay Mills Ward,432,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026
+e89ae4da88da15fd,"Iqbal, Zafar",2026-05-07,Tyseley and Hay Mills Ward,303,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026
+03e9571506064dbf,"John, Yvette Roselyn",2026-05-07,Tyseley and Hay Mills Ward,463,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026
+6358bb67a345d9fd,"Mustifa, Dawud",2026-05-07,Tyseley and Hay Mills Ward,90,False,Your Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026
+b94562ca206f8995,"Nadeem, Mohammad",2026-05-07,Tyseley and Hay Mills Ward,383,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026
+d4bbbf1b362e3a00,"Rahman, Atikur",2026-05-07,Tyseley and Hay Mills Ward,550,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3260/tyseley_and_hay_mills_ward_election_2026
+8c1fed6516f53982,"Aikhlaq, Mohammed",2026-05-07,Ward End Ward,525,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+effb64902e1f662a,"Ali, Naz",2026-05-07,Ward End Ward,328,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+e262bea2001eca06,"Green, Maria Anna",2026-05-07,Ward End Ward,165,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+789a16a43440f5ac,"Khaliq, Harris",2026-05-07,Ward End Ward,2078,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+63fc3c046645697c,"Mehta, Aashima",2026-05-07,Ward End Ward,28,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+5e74e43162132994,"Nistor, Julian",2026-05-07,Ward End Ward,31,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+8d1ae0c4b2f156b1,"Tasleem, Mahreen",2026-05-07,Ward End Ward,18,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+9d8873bc5d0024b4,"Turner, Catherine",2026-05-07,Ward End Ward,225,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3261/ward_end_ward_election_2026
+6f561252e4c76c0c,"Bhagalia, Jigar",2026-05-07,Weoley and Selly Oak Ward,1461,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+a05c7080bc067276,"Buchan, Marie",2026-05-07,Weoley and Selly Oak Ward,94,False,Independent,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+fd7b546accd2bcef,"Cotton, Eleanor",2026-05-07,Weoley and Selly Oak Ward,1284,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+8a97b0a06becbc0d,"Fitt, Rob",2026-05-07,Weoley and Selly Oak Ward,1123,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+6afc460d472a8b3e,"Gulia, Kiran",2026-05-07,Weoley and Selly Oak Ward,1221,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+b991ee3abe518781,"Holroyd, Stewart David",2026-05-07,Weoley and Selly Oak Ward,1150,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+44ee4e5ad95579d8,"Marston, Glyn",2026-05-07,Weoley and Selly Oak Ward,1645,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+9b00e6619ab93326,"Said Gianluca, Paolo",2026-05-07,Weoley and Selly Oak Ward,279,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+021b0e17dabdd1db,"Stanton, Elly",2026-05-07,Weoley and Selly Oak Ward,373,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+ee1eea824aa706f0,"Waddingham, Cherie Louise",2026-05-07,Weoley and Selly Oak Ward,1525,True,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+ad900e7477a1bdf2,"Webb, George Louis",2026-05-07,Weoley and Selly Oak Ward,1502,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3262/weoley_and_selly_oak_ward_election_2026
+c84815032bb293c4,"Hammond, Claire Marie",2026-05-07,Yardley East Ward,419,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026
+4823f89a6ffda1e6,"Harries, Deborah",2026-05-07,Yardley East Ward,979,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026
+b2f649921c5d3e8e,"Huxley, Thomas",2026-05-07,Yardley East Ward,132,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026
+f071cc407d3250ca,"Miah, Rofique",2026-05-07,Yardley East Ward,387,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026
+012f993535e11044,"Raman, Vaishali Sathish Kumar",2026-05-07,Yardley East Ward,762,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026
+817165c95185349e,"Yaqoob, Naushaba",2026-05-07,Yardley East Ward,153,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3263/yardley_east_ward_election_2026
+0df90fc01cf3cb28,"Ali, Liaqat",2026-05-07,Yardley West and Stechford Ward,278,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026
+c43f8a9e06ab5c47,"Ameer, Mohammed Imran",2026-05-07,Yardley West and Stechford Ward,368,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026
+bfa82a42076b9a49,"Baz, Baber",2026-05-07,Yardley West and Stechford Ward,1911,False,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026
+3f405af4f123e788,"Hardcastle, Leo",2026-05-07,Yardley West and Stechford Ward,57,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026
+fe49df55e1658dbe,"Iqbal, Naila",2026-05-07,Yardley West and Stechford Ward,126,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026
+02f3f44f77dbcff9,"Preston, Malcolm",2026-05-07,Yardley West and Stechford Ward,405,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3264/yardley_west_and_stechford_ward_election_2026
+985206d746bf927d,"Baker, A C",2026-05-07,Acocks Green Ward,1106,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+d9e80fbce1bc65b4,"Bhatti, Sajid Mehmood",2026-05-07,Acocks Green Ward,239,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+2e24c98f44703ef5,"Drennan, Danny",2026-05-07,Acocks Green Ward,1147,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+6656f6900b5a826e,"Flynn, Eamonn Kevin",2026-05-07,Acocks Green Ward,37,False,Trade Unionist and Socialist Coalition,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+6d686ad13a4b6ce3,"Griffiths-Hughes, Tristan Thomas",2026-05-07,Acocks Green Ward,192,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+5352b601f0f07a5b,"Harmer, Roger Kingdon",2026-05-07,Acocks Green Ward,1952,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+d790d0bbf94ad525,"Khan, Sadia Mahmood",2026-05-07,Acocks Green Ward,1053,False,Green Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+73454f4621c7f9a4,"Mehta, Doctor Sanjeev",2026-05-07,Acocks Green Ward,987,False,Reform UK,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+3a01c2e08fd28d2c,"O'Shea, John Anthony",2026-05-07,Acocks Green Ward,813,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+e8c2f8d6b7183050,"O'Shea, Lu",2026-05-07,Acocks Green Ward,577,False,Labour Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+f2900298b6b6b233,"Patel, Dhiran",2026-05-07,Acocks Green Ward,179,False,Local Conservatives,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+d6cf60da5bb696a8,"Robinson, Jae",2026-05-07,Acocks Green Ward,52,False,Independent Trade Union and Socialist Candidate,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+56d81d8be6bad092,"Tahir, Mohammed Afzal",2026-05-07,Acocks Green Ward,203,False,Workers Party,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026
+58a327254af99e4d,"Wagg, Penny",2026-05-07,Acocks Green Ward,1486,True,Liberal Democrats,https://www.birmingham.gov.uk/info/50385/election_2026_candidates/3196/acocks_green_ward_election_2026

@@ -1,4 +1,5 @@
 \.venv
-output
+output/development/
 __pycache__
 *.pyc
+local_scripts/
