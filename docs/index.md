@@ -5,6 +5,7 @@ This repository is now scoped to careful CMIS rendered-page extraction. The goal
 Start here
 
 - Read [docs/next-steps.md](docs/next-steps.md) for the recommended implementation path.
+- Read [docs/relational-schema.md](docs/relational-schema.md) for the canonical database structure and diagram.
 - Review `scripts/scrape_election_results_2026.py` for the reusable extractor.
 - Review `scripts/run_election_results_2026_all_wards.py` for the browser-driven all-wards runner.
 - Review `run_demo.py` if you want a starting point for a separate demo workflow.

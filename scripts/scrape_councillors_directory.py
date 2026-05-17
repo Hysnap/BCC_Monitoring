@@ -294,7 +294,11 @@ def ensure_output_dirs(base_dir: Path) -> Dict[str, Path]:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape the Birmingham councillors directory")
     parser.add_argument("--directory-url", default=DEFAULT_DIRECTORY_URL, help="Councillor listing page")
-    parser.add_argument("--output-dir", default=str(gv.DIRECTORIES["output_dir"] / "councillors"), help="Directory for outputs")
+    parser.add_argument(
+        "--output-dir",
+        default=str(gv.DIRECTORIES["output_dir"] / "current"),
+        help="Directory for outputs (canonical: output/current)",
+    )
     parser.add_argument("--election-output-dir", default=str(gv.ELECTION_OUTPUT_DIR), help="Existing election output directory for person joins")
     args = parser.parse_args()
 
@@ -320,6 +324,16 @@ def main() -> None:
 
     write_csv(output_paths["councillors"], directory_records)
     write_csv(output_paths["links"], link_records)
+
+    # optional: write into DB with change logging
+    if "--write-db" in " ".join(sys.argv):
+        try:
+            from src.monitoring.ingest import write_councillors_links_to_db
+
+            print("Writing councillor links to DB...")
+            write_councillors_links_to_db(output_paths["links"], db_path=None, dry_run=False)
+        except Exception as e:
+            print(f"Failed to write to DB: {e}")
 
     manifest = {
         "directory_url": args.directory_url,

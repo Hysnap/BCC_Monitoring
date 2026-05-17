@@ -36,27 +36,9 @@ Use a small stack first, then add only what you need:
 
 ## Data model
 
-Use a normalized structure so candidates, party history, election results, and ward summaries can change independently.
+Use the canonical structure in [docs/relational-schema.md](docs/relational-schema.md). That document is the single source for the SQLAlchemy/SQLite model, including the normalized entity tables, the hierarchical label design, and the event timeline model.
 
-- Candidate or councillor details table: one record per person, with a stable internal identifier and the person name.
-- Party affiliation history table: one record per person per party period, with candidate or councillor ID, party, start date, end date, and a flag for current affiliation.
-- Election standing table: one record per election contested, with candidate or councillor ID, election date, ward, votes received, and elected status.
-- Election summary table: one record per election and ward, with number of candidates, total votes cast, total potential voters, and turnout.
-- Councillor directory table: one record per current councillor profile, with the profile URL, ward, party, service dates, surgery flag, and register-of-interests URL.
-- Councillor link table: one record per person linking election people to current councillor pages where available, plus an explicit status for current councillor, directory-only current councillor, or election-only person.
-- Committee table: one record per committee with committee name, URL, and source page.
-- Committee membership table: one record per councillor per committee membership period.
-- Meeting table: one record per committee meeting, with meeting date, venue, and CMIS or video link when available.
-- Attendance table: one record per councillor per meeting with attendance status.
-
-Suggested keys:
-
-- Person ID as the parent key for candidate or councillor details.
-- Person ID plus effective date range for party history.
-- Person ID plus election date plus ward for standing records.
-- Election date plus ward for ward-level summary records.
-- Councillor URL plus person ID for directory/profile joins.
-- Committee ID plus meeting date for meetings and attendance.
+When extending the schema, prefer adding a new entity or event table rather than widening the existing ones with ad hoc columns. The model is intended to stay normalized so candidate, party, ward, committee, and meeting data can evolve independently.
 
 ## Output publishing
 

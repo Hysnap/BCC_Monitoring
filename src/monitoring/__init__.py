@@ -2,6 +2,7 @@
 
 __all__ = [
     "clients",
+    "database",
     "normalize",
     "report",
 ]
