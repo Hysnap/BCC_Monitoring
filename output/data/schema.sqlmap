@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "database": {
+    "dialect": "sqlite"
+  },
+  "tables": [],
+  "association_tables": []
+}
