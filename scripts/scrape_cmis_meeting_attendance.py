@@ -29,9 +29,11 @@ from src.monitoring.meeting_attendance import (  # noqa: E402
     MeetingAttendanceRecord,
     build_expected_comparison,
     extract_section_records,
+    parse_meeting_summary,
     normalise_whitespace,
     to_dataframe,
 )
+from src.monitoring.ingest import write_meeting_attendance_to_db  # noqa: E402
 
 
 DEFAULT_MEETING_URL = (
@@ -182,6 +184,7 @@ def scrape_meeting_attendance(
     attendance_tab_title: str,
     section_specs: Sequence[AttendanceSectionSpec],
     timeout_ms: int,
+    db_path: Optional[Path] = None,
     headed: bool = False,
 ) -> Dict[str, object]:
     output_paths = ensure_output_dirs(output_dir)
@@ -204,6 +207,7 @@ def scrape_meeting_attendance(
 
             records = _dedupe_records(records)
             attendance_frame = to_dataframe(records)
+            meeting_meta = parse_meeting_summary(attended_html_pages[0], meeting_url)
             if not attendance_frame.empty:
                 attendance_frame.sort_values(
                     by=["section_title", "status_code", "person_name"],
@@ -212,13 +216,24 @@ def scrape_meeting_attendance(
                 )
             attendance_frame.to_csv(output_paths["attendance"], index=False)
 
+            if db_path is not None:
+                write_meeting_attendance_to_db(
+                    output_paths["attendance"],
+                    db_path=str(db_path),
+                    meeting_title=meeting_meta["meeting_title"],
+                    meeting_date=meeting_meta["meeting_date"],
+                    meeting_url=meeting_meta["meeting_url"],
+                )
+
             if expected_roster_csv is None:
                 expected_names = [record.person_name for record in records]
             else:
                 expected_names = read_expected_names(expected_roster_csv, expected_name_column)
 
-            meeting_title = records[0].meeting_title if records else ""
-            meeting_date = records[0].meeting_date if records else None
+            meeting_title = (
+                records[0].meeting_title if records else meeting_meta["meeting_title"] or ""
+            )
+            meeting_date = records[0].meeting_date if records else meeting_meta["meeting_date"]
             comparison_rows = build_expected_comparison(
                 meeting_url=meeting_url,
                 meeting_title=meeting_title,
@@ -271,6 +286,7 @@ def main() -> None:
     parser.add_argument("--expected-name-column", default="councillor_name", help="Column name to use from the expected roster CSV")
     parser.add_argument("--attendance-tab-title", default="Attendance", help="Tab title to open before scraping the attendance grid")
     parser.add_argument("--timeout-ms", type=int, default=60000, help="Navigation timeout in milliseconds")
+    parser.add_argument("--db-path", default=str(gv.DIRECTORIES["output_dir"] / "data" / "monitoring.sqlite"), help="SQLite database path to update")
     parser.add_argument("--headed", action="store_true", help="Run the browser headed instead of headless")
     args = parser.parse_args()
 
@@ -286,6 +302,7 @@ def main() -> None:
         attendance_tab_title=args.attendance_tab_title,
         section_specs=DEFAULT_SECTION_SPECS,
         timeout_ms=args.timeout_ms,
+        db_path=Path(args.db_path) if args.db_path else None,
         headed=args.headed,
     )
     print(json.dumps(manifest, indent=2))

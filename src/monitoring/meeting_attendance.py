@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from datetime import datetime
 import re
 from typing import Dict, Iterable, List, Optional, Sequence
 
@@ -68,27 +69,63 @@ def build_person_id(person_name: str) -> str:
     return hashlib.sha1(normalise_person_name(person_name).encode("utf-8")).hexdigest()[:16]
 
 
+def _extract_summary_value(soup: BeautifulSoup, label_text: str) -> Optional[str]:
+    label = soup.find(
+        "span",
+        string=lambda value: normalise_whitespace(str(value or "")) == label_text,
+    )
+    if label is None:
+        return None
+
+    holder = label.find_parent("div", class_="holder")
+    if holder is None:
+        return None
+
+    value_cell = holder.find("div", class_=re.compile(r"\bValue\b"))
+    if value_cell is None:
+        return None
+
+    value = normalise_whitespace(value_cell.get_text(" ", strip=True))
+    return value or None
+
+
+def _parse_meeting_date(value: Optional[str]) -> Optional[str]:
+    if not value:
+        return None
+
+    cleaned = normalise_whitespace(value)
+    match = re.match(r"(\d{1,2}\s+[A-Za-z]+\s+\d{4})", cleaned)
+    if not match:
+        return None
+
+    date_text = match.group(1)
+    for fmt in ("%d %b %Y", "%d %B %Y"):
+        try:
+            return datetime.strptime(date_text, fmt).date().isoformat()
+        except ValueError:
+            continue
+    return None
+
+
 def parse_meeting_summary(html: str, meeting_url: str) -> Dict[str, Optional[str]]:
     """Extract the title/date fields from a CMIS meeting page."""
 
     soup = BeautifulSoup(html, "lxml")
-    heading = soup.find("h1")
-    title = normalise_whitespace(heading.get_text(" ", strip=True)) if heading else ""
+    committee_name = _extract_summary_value(soup, "Committee:")
+    meeting_date_text = _extract_summary_value(soup, "Date/Time:")
 
-    committee_name: Optional[str] = None
-    meeting_date: Optional[str] = None
+    if committee_name is None:
+        heading = soup.find("h1")
+        committee_name = normalise_whitespace(heading.get_text(" ", strip=True)) if heading else None
 
-    summary = soup.find(string=re.compile(r"Committee:\s*"))
-    if summary:
-        summary_text = normalise_whitespace(summary.parent.get_text(" ", strip=True)) if summary.parent else normalise_whitespace(str(summary))
-        match = re.search(r"Committee:\s*(.*?)\s+Date/Time:\s*(.*?)\s+Status:", summary_text)
-        if match:
-            committee_name = normalise_whitespace(match.group(1)) or None
-            meeting_date = normalise_whitespace(match.group(2)) or None
+    if committee_name is None:
+        og_title = soup.find("meta", attrs={"property": "og:title"})
+        committee_name = normalise_whitespace(og_title.get("content", "")) if og_title else None
+
+    meeting_date = _parse_meeting_date(meeting_date_text)
 
     return {
-        "meeting_title": title,
-        "committee_name": committee_name,
+        "meeting_title": committee_name,
         "meeting_date": meeting_date,
         "meeting_url": meeting_url,
     }

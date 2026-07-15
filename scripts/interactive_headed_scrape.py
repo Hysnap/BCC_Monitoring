@@ -31,6 +31,7 @@ from src.monitoring.meeting_attendance import (
     normalise_whitespace,
     to_dataframe,
 )
+from src.monitoring.ingest import write_meeting_attendance_to_db
 
 
 DEFAULT_SECTION_SPECS = (
@@ -48,6 +49,9 @@ def normalise_url(href: str) -> str:
 
 
 def slug_from_url(url: str) -> str:
+    match = re.search(r"/Meeting/(\d+)/", url)
+    if match:
+        return f"meeting_{match.group(1)}"
     return url.rstrip("/\n\r").split("/")[-1].replace(".aspx", "")
 
 
@@ -169,6 +173,7 @@ def scrape_current_page(page, output_root: Path, timeout_ms: int = 60000):
     if not attendance_frame.empty:
         attendance_frame.sort_values(by=["section_title", "status_code", "person_name"], inplace=True)
     attendance_frame.to_csv(out_dir / "attendance.csv", index=False)
+    write_meeting_attendance_to_db(out_dir / "attendance.csv")
 
     if not records:
         expected_names = []

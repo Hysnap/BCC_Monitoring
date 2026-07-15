@@ -209,6 +209,9 @@ def _collect_pages(page, section_title: str, timeout_ms: int, raw_dir: Path) -> 
 
 
 def slug_from_url(url: str) -> str:
+    match = re.search(r"/Meeting/(\d+)/", url)
+    if match:
+        return f"meeting_{match.group(1)}"
     return url.rstrip("/\n\r").split("/")[-1].replace(".aspx", "")
 
 

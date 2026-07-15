@@ -1,9 +1,18 @@
 {
-  "meeting_url": "https://birmingham.cmis.uk.com/birmingham/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/14802/Committee/28/Default.aspx",
-  "meeting_title": "Meeting Details",
-  "meeting_date": null,
-  "attendance_count": 2,
-  "apology_count": 25,
+  "meeting_url": "https://birmingham.cmis.uk.com/birmingham/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/26/Committee/39/Default.aspx",
+  "meeting_title": "Meeting of the City Council",
+  "meeting_date": "2015-07-07",
+  "attendance_count": 0,
+  "apology_count": 0,
   "absent_count": 0,
-  "generated_at": "2026-07-15"
+  "comparison_rows": 0,
+  "expected_roster_csv": null,
+  "generated_at": "2026-07-15",
+  "section_titles": [
+    "Attended - Committee Members",
+    "Attended - Other Members",
+    "Apologies",
+    "Absent"
+  ],
+  "privacy_note": "Attendance, apologies, and absences are normalized from the public CMIS meeting page; use a historical roster CSV when comparing older meetings."
 }
