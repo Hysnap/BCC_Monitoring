@@ -5,6 +5,7 @@ This repository performs polite, low-rate extraction of Birmingham City Council 
 Status
 
 - Implemented: a reusable single-page scraper and a Playwright-driven runner with checkpointing and freshness checks.
+- Updated: 2026-07-15 — repository includes the Playwright runner, non-browser scraper, and checkpoint/resume helpers. See `scripts/` for available runners and utilities.
 - Outputs: normalized CSVs (people, party history, election standings, ward summaries), a JSON manifest, and raw HTML snapshots.
 
 Quick start
@@ -105,7 +106,7 @@ See also
 - **Avoid duplicates**: Historical or duplicate run outputs that contain `councillors.csv` (for example `output/councillors`) should be relocated to `output/development/archived/` to avoid confusion. A helper script is provided to automate this:
 
 ```powershell
-python -m scripts.move_duplicate_outputs_to_development
+python scripts/move_duplicate_outputs_to_development.py
 ```
 
 - **How updates flow**: scrapers and runners emit per-run CSVs into `output/<run-name>/`. When ready, run `scripts/compile_unified_dataset_local.py` (or the CI task) to merge and canonicalize named entities into `output/current`.

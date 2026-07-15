@@ -2,6 +2,10 @@
 
 The immediate objective is a slow, polite rendered-page extraction pipeline that starts from the Birmingham 2026 election results by ward pages, navigates ward by ward, and captures the results without creating bursty traffic or unnecessary load for the service team.
 
+Status
+
+- Current: Playwright runner and non-browser single-ward scraper are implemented in `scripts/`. Use the runner for rendered pages and the single-ward scraper for fast, static fetches.
+
 ## Recommended Python libraries
 
 Use a small stack first, then add only what you need:

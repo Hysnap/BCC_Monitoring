@@ -194,6 +194,10 @@ python scripts/init_database.py
 
 The default SQLite file is `output/data/monitoring.sqlite`.
 
+Implementation
+
+- The SQLAlchemy models and helpers that back this schema are implemented in `src/monitoring/database.py`. See that file for the current table definitions and migration helpers.
+
 ## Future expansion
 
 This structure is designed to support future councils and alternative public data sources by adding another `councils` row and loading source-specific records under that council namespace.
